@@ -1114,7 +1114,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd
 
 
 
