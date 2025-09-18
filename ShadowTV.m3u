@@ -4690,6 +4690,20 @@ https://dfwlive-v2-c3p3-os.global.ssl.fastly.net/Content/HLS.cps/Live/channel(SP
 /////////////NBA GAME LIVE///////////
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA1" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA1
+http://fortv.cc:8080/53710359/53710359/22995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA2" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA2
+http://fortv.cc:8080/53710359/53710359/20073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA3" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA3
+http://fortv.cc:8080/CuWH2h/761034/210466
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA4" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA4
+http://fortv.cc:8080/CuWH2h/761034/210467
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA5" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA5
+http://fortv.cc:8080/CuWH2h/761034/210468
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA6" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA6
+http://fortv.cc:8080/CuWH2h/761034/210469
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA7" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA7
+http://fortv.cc:8080/CuWH2h/761034/210470
 #EXTINF:-1 group-title="NBA TV LIVE SOURCE" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV (Stream 2)
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NBA TV LIVE SOURCE" streamId="0" channel-number="0",ABC East
