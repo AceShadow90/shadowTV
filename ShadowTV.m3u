@@ -628,11 +628,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Cignal_Logo_2018.svg/645px-Cignal_Logo_2018.svg.png",Cignal
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cignal",ANIMAX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
-https://animax.b-cdn.net/mirror/animax/static.mpd
-
 #EXTINF:-1 tvg-id="a2z" tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="Cignal",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
