@@ -1633,6 +1633,34 @@ http://supersonictv.live:8080/611366/682256/22125
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/14875c2993fff8a78bada7aa82ac549d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Cleveland Cavaliers vs. New York Knicks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_nyk/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a8767c2d2ec9a72027f5abe70627090e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Brooklyn Nets vs. Charlotte Hornets
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_cha/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b4a80f2cfa34c9870cc8104a7214820c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Miami Heat vs. Orlando Magic
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_orl/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cb1de41e493ad491e35ecfe734740be7-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Toronto Raptors vs. Atlanta Hawks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_atl/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8191b60acf356dac2fd4d3bfe999734e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Philadelphia 76ers vs. Boston Celtics
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_bos/tracks-v1a1/mono.ts.m3u8
+
+
 
 
 
@@ -12533,7 +12561,6 @@ https://sahedasaha5.nazmulkhaey.workers.dev/0:/Your.Fault.2024.AMZN.WEB-DL.720p.
 
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",21 GUNS - Green Day
 https://drive.usercontent.google.com/download?id=1zm5JfqJm09vc96gq0RoDzu6qYsbZeArB&export=download&authuser=N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",25 MINUTES - Michael Learns To Rock
@@ -12694,6 +12721,47 @@ https://drive.usercontent.google.com/download?id=1rDbn7RPMnKX_yamTdZvQzLUBRSwuy3
 https://drive.usercontent.google.com/download?id=1zvrv9KN7wyNLd8vGfO8yBLU8LeHiKdOr&export=download&authuser=N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BINIBINI - Janno Gibbs
 https://drive.usercontent.google.com/download?id=1xUPtX46U8iB_GUgXRQTL9aNObrG89b5x&export=download&authuser=N
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BINIBINI - Zack Tabudlo
+https://drive.usercontent.google.com/download?id=1pg8_IH3q3PPsqVW1hzKPZiqrkkeDXIuz&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BLUER THAN BLUE - Michael Johnson
+https://drive.usercontent.google.com/download?id=16sp7tnqfVCW1Puh_lujNUstzpvhwv4qC&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",Bohemian Rhapsody - Queen
+https://drive.usercontent.google.com/download?id=11TfwGMdwSwyJI2BXW1yjNlL1qbV5DkfS&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BORN FOR YOU - David Pomeranz
+https://drive.usercontent.google.com/download?id=1aX-Z3tF4wVMnLD_qn_98dJEaxkV1myVI&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BOULEVARD - Bert Dominic
+https://drive.usercontent.google.com/download?id=1BCCNTet3ElZ3Tp26yX4LX9q7zPGMZQgJ&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BREAKING MY HEART - Michael Learns To Rock
+https://drive.usercontent.google.com/download?id=1BlUYDF7O_A7M_ziKGrA7mSfHLbClmgDl&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BREATHLESS - The Corrs
+https://drive.usercontent.google.com/download?id=12OotBN3i_248ASno2hk9HWQYOFc6oniX&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BRIDGE OVER TROUBLED WATER - Simon and Garfunkel
+https://drive.usercontent.google.com/download?id=17lSLwpc-XeC8T_fsl8ZgHW1iBzX1m5tk&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BROKEN HEARTED ME - Anne Murray
+https://drive.usercontent.google.com/download?id=1VXy-AR01GqNRzq1SMVgAG642KttyjJSK&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BROKEN VOW - Lara Fabian
+https://drive.usercontent.google.com/download?id=17DfdBS8dVY0yHoPgOxEYyGTnz_OIfrFi&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BUILD ME UP BUTTERCUP - The Foundations
+https://drive.usercontent.google.com/download?id=1z5ktZ-jY0ov4PKmiFy6QsdNA3wp8f2TQ&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BUKAS NA LANG KITA MAMAHALIN - Lani Misalucha
+https://drive.usercontent.google.com/download?id=1cjn5ODQUTohlrLqSl0Eqy_w8Suw0UbGc&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BUKO - Jireh Lim
+https://drive.usercontent.google.com/download?id=1lcWwNzjObSr8Hwf2pQISgR5NXTgf_zoO&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BULAG PIPI AT BINGI - Freddie Aguilar
+https://drive.usercontent.google.com/download?id=10J1VLFCPduWzhK1IPvFCOvA3YCHv8U_r&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BULONG - Kitchie Nadal
+https://drive.usercontent.google.com/download?id=1onJNDiGnP0Zw34IdThzS3yVSdXNNNGaF&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BULOY - Parokya Ni Edgar
+https://drive.usercontent.google.com/download?id=11R3M86gDKs-Nm5ogmmHshF71K5_wGKu_&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BURN - Tina Arena
+https://drive.usercontent.google.com/download?id=1fhvM5kBIqoUb0420WZzCPHuILNnqFPc_&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",BUWAN - Juan Carlos Labajo
+https://drive.usercontent.google.com/download?id=1eOLyuNcCa9iyTCIwHpzHfzaxoDpnVIrE&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",CALIFORNIA KING BED - Rihanna
+https://drive.usercontent.google.com/download?id=1Abt0ovqjpSghhB8vZNAdYw1bXqmr_IoK&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",CALL ME - Dennis DeYoung
+https://drive.usercontent.google.com/download?id=1YcxT5z_wreR9ICWhddfn72i4ukH7eCxc&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",CALLING YOUR NAME AGAIN - Richard Carpenter
+https://drive.usercontent.google.com/download?id=1OsVGhmsarKkU6ifYptVL__BmiWk2oqk4&export=download&authuser=N
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",CAN YOU FEEL THE LOVE TONIGHT - Elton John
+https://drive.usercontent.google.com/download?id=1-DBK67CO9LQyhgyGhjZJ_oLfe9xfqQVl&export=download&authuser=N
