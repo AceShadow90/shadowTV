@@ -1668,6 +1668,14 @@ https://gg.poocloud.in/nba_ind/tracks-v1a1/mono.ts.m3u8
 https://gg.poocloud.in/nba_gsw/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Oklahoma City Thunder vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBAWebcast - Live Games",Oklahoma City Thunder vs Indiana Pacers
+https://gg.poocloud.in/nba_ind/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Denver Nuggets vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBAWebcast - Live Games",Denver Nuggets vs Golden State Warriors
+https://gg.poocloud.in/nba_gsw/index.m3u8
+
+
 
 
 #EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.M1toxkwAjsIHMoZUfObGJQHaFj?pid=Api&P=0&h=220",NEWS CHANNELS
