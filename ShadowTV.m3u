@@ -1778,7 +1778,6 @@ http://vp-txpro.com:80/live/5SC1026/7DCZqRd4JYyq/38694.m3u8
 http://vp-txpro.com:80/live/5SC1026/7DCZqRd4JYyq/38695.m3u8
 #EXTINF:-1 tvg-id="UtahJazz.nba" tvg-name="Utah Jazz" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",Utah Jazz
 http://vp-txpro.com:80/live/5SC1026/7DCZqRd4JYyq/38696.m3u8
-#EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="Washington Wizards" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",Washington Wizards
 
 
 
@@ -2730,34 +2729,6 @@ https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA1" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA1
-http://fortv.cc:8080/53710359/53710359/22995
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA2" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA2
-http://fortv.cc:8080/53710359/53710359/20073
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA3" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA3
-http://fortv.cc:8080/CuWH2h/761034/210466
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA4" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA4
-http://fortv.cc:8080/CuWH2h/761034/210467
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA5" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA5
-http://fortv.cc:8080/CuWH2h/761034/210468
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA6" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA6
-http://fortv.cc:8080/CuWH2h/761034/210469
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA7" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA7
-http://fortv.cc:8080/CuWH2h/761034/210470
-
-
-
-
 
 
 
