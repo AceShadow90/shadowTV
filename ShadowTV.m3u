@@ -1640,6 +1640,55 @@ http://supersonictv.live:8080/611366/682256/22125
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs @ Columbus Blue Jackets • Oct 29 at 4:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHLWebcast - Live Games",Toronto Maple Leafs @ Columbus Blue Jackets • Oct 29 at 4:30 PM PDT
+https://gg.poocloud.in/columbusbluejackets/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="MLS / Soccer Live Stream" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="MLSWebcast - Live Events",MLS / Soccer Live Stream
+https://gg.poocloud.in/ll_bet/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Toronto Raptors • Oct 29 at 3:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png" group-title="NBAWebcast - Live Games",Houston Rockets @ Toronto Raptors • Oct 29 at 3:30 PM PDT
+https://gg.poocloud.in/nba_torontoraptors/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers @ Boston Celtics • Oct 29 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png" group-title="NBAWebcast - Live Games",Cleveland Cavaliers @ Boston Celtics • Oct 29 at 4:00 PM PDT
+https://gg.poocloud.in/nba_bostonceltics/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Detroit Pistons • Oct 29 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBAWebcast - Live Games",Orlando Magic @ Detroit Pistons • Oct 29 at 4:00 PM PDT
+https://gg.poocloud.in/nba_detroitpistons/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Atlanta Hawks @ Brooklyn Nets • Oct 29 at 4:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="NBAWebcast - Live Games",Atlanta Hawks @ Brooklyn Nets • Oct 29 at 4:30 PM PDT
+https://gg.poocloud.in/nba_brooklynnets/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Chicago Bulls • Oct 29 at 5:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png" group-title="NBAWebcast - Live Games",Sacramento Kings @ Chicago Bulls • Oct 29 at 5:00 PM PDT
+https://gg.poocloud.in/nba_chicagobulls/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ Dallas Mavericks • Oct 29 at 5:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" group-title="NBAWebcast - Live Games",Indiana Pacers @ Dallas Mavericks • Oct 29 at 5:30 PM PDT
+https://gg.poocloud.in/nba_dallasmavericks/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Denver Nuggets • Oct 29 at 6:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png" group-title="NBAWebcast - Live Games",New Orleans Pelicans @ Denver Nuggets • Oct 29 at 6:00 PM PDT
+https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Utah Jazz • Oct 29 at 6:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png" group-title="NBAWebcast - Live Games",Portland Trail Blazers @ Utah Jazz • Oct 29 at 6:00 PM PDT
+https://gg.poocloud.in/nba_utahjazz/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Minnesota Timberwolves • Oct 29 at 6:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png" group-title="NBAWebcast - Live Games",Los Angeles Lakers @ Minnesota Timberwolves • Oct 29 at 6:30 PM PDT
+https://gg.poocloud.in/nba_minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Memphis Grizzlies @ Phoenix Suns • Oct 29 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png" group-title="NBAWebcast - Live Games",Memphis Grizzlies @ Phoenix Suns • Oct 29 at 7:00 PM PDT
+https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PPV.Events.Dummy.us" tvg-name="PPV Events Live Stream" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="PPVWebcast - Live Events",PPV Events Live Stream
+https://gg.poocloud.in/ppv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Darts Live Stream" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Darts.png" group-title="DartsWebcast - Live Events",Darts Live Stream
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Wrestling.Dummy.us" tvg-name="Wrestling Live Stream" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="WrestlingWebcast - Live Events",Wrestling Live Stream
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Motorsports.Dummy.us" tvg-name="Motorsports Live Stream" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports.png" group-title="MotorsportsWebcast - Live Events",Motorsports Live Stream
+https://gg.poocloud.in/motorsports/tracks-v1a1/mono.ts.m3u8
+
 
 
 
