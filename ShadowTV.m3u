@@ -1955,66 +1955,90 @@ http://supersonictv.live:8080/611366/682256/22125
 
 
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="MULTI STREAM vs MULTI STREAM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",MULTI STREAM vs MULTI STREAM
 https://gg.poocloud.in/nba_multistream/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Atlanta Hawks vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Atlanta Hawks vs Indiana Pacers
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Sacramento Kings vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Sacramento Kings vs Milwaukee Bucks
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Minnesota Timberwolves vs Charlotte Hornets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Minnesota Timberwolves vs Charlotte Hornets
+https://gg.poocloud.in/nba_charlottehornets/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Golden State Warriors vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Golden State Warriors vs Indiana Pacers
 https://gg.poocloud.in/nba_indianapacers/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Boston Celtics vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Boston Celtics vs Philadelphia 76ers
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Orlando Magic vs Washington Wizards" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Orlando Magic vs Washington Wizards
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Toronto Raptors vs Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Toronto Raptors vs Cleveland Cavaliers
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Houston Rockets vs Boston Celtics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Houston Rockets vs Boston Celtics
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="New York Knicks vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",New York Knicks vs Chicago Bulls
-https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Dallas Mavericks vs Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Dallas Mavericks vs Detroit Pistons
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Los Angeles Lakers vs Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Los Angeles Lakers vs Memphis Grizzlies
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Utah Jazz vs Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Utah Jazz vs Phoenix Suns
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Denver Nuggets vs Portland Trail Blazers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Denver Nuggets vs Portland Trail Blazers
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="New Orleans Pelicans vs LA Clippers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",New Orleans Pelicans vs LA Clippers
-https://gg.poocloud.in/nba_laclippers/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Atlanta Hawks @ Indiana Pacers • Oct 31 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBA - Live Games Server2",Atlanta Hawks @ Indiana Pacers • Oct 31 at 4:00 PM PDT
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Milwaukee Bucks • Nov 1 at 2:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" group-title="NBA - Live Games Server2",Sacramento Kings @ Milwaukee Bucks • Nov 1 at 2:00 PM PDT
+https://gg.poocloud.in/nba_milwaukeebucks/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ Charlotte Hornets • Nov 1 at 3:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" group-title="NBA - Live Games Server2",Minnesota Timberwolves @ Charlotte Hornets • Nov 1 at 3:00 PM PDT
+https://gg.poocloud.in/nba_charlottehornets/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Indiana Pacers • Nov 1 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBA - Live Games Server2",Golden State Warriors @ Indiana Pacers • Nov 1 at 4:00 PM PDT
 https://gg.poocloud.in/nba_indianapacers/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Philadelphia 76Ers • Oct 31 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png" group-title="NBA - Live Games Server2",Boston Celtics @ Philadelphia 76Ers • Oct 31 at 4:00 PM PDT
-https://gg.poocloud.in/nba_philadelphiasixers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Washington Wizards • Nov 1 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" group-title="NBA - Live Games Server2",Orlando Magic @ Washington Wizards • Nov 1 at 4:00 PM PDT
+https://gg.poocloud.in/nba_washingtonwizards/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Cleveland Cavaliers • Oct 31 at 4:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png" group-title="NBA - Live Games Server2",Toronto Raptors @ Cleveland Cavaliers • Oct 31 at 4:30 PM PDT
-https://gg.poocloud.in/nba_clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Boston Celtics • Nov 1 at 5:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png" group-title="NBA - Live Games Server2",Houston Rockets @ Boston Celtics • Nov 1 at 5:00 PM PDT
+https://gg.poocloud.in/nba_bostonceltics/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks @ Chicago Bulls • Oct 31 at 5:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png" group-title="NBA - Live Games Server2",New York Knicks @ Chicago Bulls • Oct 31 at 5:00 PM PDT
-https://gg.poocloud.in/nba_chicagobulls/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Detroit Pistons • Nov 1 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBA - Live Games Server2",Dallas Mavericks @ Detroit Pistons • Nov 1 at 7:00 PM PDT
+https://gg.poocloud.in/nba_detroitpistons/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Memphis Grizzlies • Oct 31 at 6:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png" group-title="NBA - Live Games Server2",Los Angeles Lakers @ Memphis Grizzlies • Oct 31 at 6:30 PM PDT
-https://gg.poocloud.in/nba_memphisgrizzlies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes @ Boston Bruins • Nov 1 at 10:00 AM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/bos.png" group-title="NHLWebcast - Live Games",Carolina Hurricanes @ Boston Bruins • Nov 1 at 10:00 AM PDT
+https://gg.poocloud.in/bostonbruins/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Phoenix Suns • Oct 31 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png" group-title="NBA - Live Games Server2",Utah Jazz @ Phoenix Suns • Oct 31 at 7:00 PM PDT
-https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins @ Winnipeg Jets • Nov 1 at 12:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png" group-title="NHLWebcast - Live Games",Pittsburgh Penguins @ Winnipeg Jets • Nov 1 at 12:00 PM PDT
+https://gg.poocloud.in/winnipegjets/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Portland Trail Blazers • Oct 31 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png" group-title="NBA - Live Games Server2",Denver Nuggets @ Portland Trail Blazers • Oct 31 at 7:00 PM PDT
-https://gg.poocloud.in/nba_portlandtrailblazers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames @ Nashville Predators • Nov 1 at 12:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nsh.png" group-title="NHLWebcast - Live Games",Calgary Flames @ Nashville Predators • Nov 1 at 12:30 PM PDT
+https://gg.poocloud.in/nashvillepredators/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ La Clippers • Oct 31 at 7:30 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png" group-title="NBA - Live Games Server2",New Orleans Pelicans @ La Clippers • Oct 31 at 7:30 PM PDT
-https://gg.poocloud.in/nba_losangelesclippers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche @ San Jose Sharks • Nov 1 at 1:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sj.png" group-title="NHLWebcast - Live Games",Colorado Avalanche @ San Jose Sharks • Nov 1 at 1:00 PM PDT
+https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche @ Vegas Golden Knights • Oct 31 at 1:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png" group-title="NHLWebcast - Live Games",Colorado Avalanche @ Vegas Golden Knights • Oct 31 at 1:00 PM PDT
-https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dallas Stars @ Florida Panthers • Nov 1 at 3:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png" group-title="NHLWebcast - Live Games",Dallas Stars @ Florida Panthers • Nov 1 at 3:00 PM PDT
+https://gg.poocloud.in/floridapanthers/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings @ Anaheim Ducks • Oct 31 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ana.png" group-title="NHLWebcast - Live Games",Detroit Red Wings @ Anaheim Ducks • Oct 31 at 7:00 PM PDT
-https://gg.poocloud.in/anaheimducks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Washington Capitals @ Buffalo Sabres • Nov 1 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/buf.png" group-title="NHLWebcast - Live Games",Washington Capitals @ Buffalo Sabres • Nov 1 at 4:00 PM PDT
+https://gg.poocloud.in/buffalosabres/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays • Oct 31 at 5:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png" group-title="MLBWebcast - Live Games",Los Angeles Dodgers @ Toronto Blue Jays • Oct 31 at 5:00 PM PDT
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators @ Montreal Canadiens • Nov 1 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png" group-title="NHLWebcast - Live Games",Ottawa Senators @ Montreal Canadiens • Nov 1 at 4:00 PM PDT
+https://gg.poocloud.in/montrealcanadiens/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs @ Philadelphia Flyers • Nov 1 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHLWebcast - Live Games",Toronto Maple Leafs @ Philadelphia Flyers • Nov 1 at 4:00 PM PDT
+https://gg.poocloud.in/philadelphiaflyers/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="St. Louis Blues @ Columbus Blue Jackets • Nov 1 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/cbj.png" group-title="NHLWebcast - Live Games",St. Louis Blues @ Columbus Blue Jackets • Nov 1 at 4:00 PM PDT
+https://gg.poocloud.in/columbusbluejackets/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks @ Minnesota Wild • Nov 1 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png" group-title="NHLWebcast - Live Games",Vancouver Canucks @ Minnesota Wild • Nov 1 at 4:00 PM PDT
+https://gg.poocloud.in/minnesotawild/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils @ Los Angeles Kings • Nov 1 at 6:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png" group-title="NHLWebcast - Live Games",New Jersey Devils @ Los Angeles Kings • Nov 1 at 6:00 PM PDT
+https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Chicago Blackhawks @ Edmonton Oilers • Nov 1 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png" group-title="NHLWebcast - Live Games",Chicago Blackhawks @ Edmonton Oilers • Nov 1 at 7:00 PM PDT
+https://gg.poocloud.in/edmontonoilers/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers @ Seattle Kraken • Nov 1 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png" group-title="NHLWebcast - Live Games",New York Rangers @ Seattle Kraken • Nov 1 at 7:00 PM PDT
+https://gg.poocloud.in/seattlekraken/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays • Nov 1 at 5:00 PM PDT" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png" group-title="MLBWebcast - Live Games",Los Angeles Dodgers @ Toronto Blue Jays • Nov 1 at 5:00 PM PDT
 https://gg.poocloud.in/bluejays/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="MLS / Soccer Live Stream" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" group-title="MLSWebcast - Live Events",MLS / Soccer Live Stream
@@ -2031,7 +2055,6 @@ https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Motorsports.Dummy.us" tvg-name="Motorsports Live Stream" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsports.png" group-title="MotorsportsWebcast - Live Events",Motorsports Live Stream
 https://gg.poocloud.in/motorsports/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="Live Channels 24/7",24/7 South Park
 https://gg.poocloud.in/southpark/index.m3u8
 
