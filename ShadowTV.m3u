@@ -1342,77 +1342,12 @@ http://supersonictv.live:8080/611366/682256/22125
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Philadelphia 76ers vs Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Philadelphia 76ers vs Cleveland Cavaliers
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="LA Clippers vs Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",LA Clippers vs Phoenix Suns
+https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Utah Jazz vs Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Utah Jazz vs Detroit Pistons
-https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="La Clippers @ Phoenix Suns • Nov 6 at 6:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png" group-title="NBA - Live Today(ALT-2)",La Clippers @ Phoenix Suns • Nov 6 at 6:00 PM PST
+https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Brooklyn Nets vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Brooklyn Nets vs Indiana Pacers
-https://gg.poocloud.in/nba_indianapacers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Washington Wizards vs Boston Celtics" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Washington Wizards vs Boston Celtics
-https://gg.poocloud.in/nba_bostonceltics/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Minnesota Timberwolves vs New York Knicks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Minnesota Timberwolves vs New York Knicks
-https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Houston Rockets vs Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Houston Rockets vs Memphis Grizzlies
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="New Orleans Pelicans vs Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",New Orleans Pelicans vs Dallas Mavericks
-https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Miami Heat vs Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Miami Heat vs Denver Nuggets
-https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="San Antonio Spurs vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",San Antonio Spurs vs Los Angeles Lakers
-https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Oklahoma City Thunder vs Portland Trail Blazers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Oklahoma City Thunder vs Portland Trail Blazers
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Golden State Warriors vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Golden State Warriors vs Sacramento Kings
-https://gg.poocloud.in/nba_sacramentokings/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Philadelphia 76Ers @ Cleveland Cavaliers • Nov 5 at 4:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Philadelphia 76Ers @ Cleveland Cavaliers • Nov 5 at 4:00 PM PST
-https://gg.poocloud.in/nba_clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Detroit Pistons • Nov 5 at 4:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Utah Jazz @ Detroit Pistons • Nov 5 at 4:00 PM PST
-https://gg.poocloud.in/pistons/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Brooklyn Nets @ Indiana Pacers • Nov 5 at 4:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Brooklyn Nets @ Indiana Pacers • Nov 5 at 4:00 PM PST
-https://gg.poocloud.in/nba_indianapacers/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Boston Celtics • Nov 5 at 4:30 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Washington Wizards @ Boston Celtics • Nov 5 at 4:30 PM PST
-https://gg.poocloud.in/nba_bostonceltics/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ New York Knicks • Nov 5 at 4:30 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Minnesota Timberwolves @ New York Knicks • Nov 5 at 4:30 PM PST
-https://gg.poocloud.in/nba_newyorkknicks/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ Memphis Grizzlies • Nov 5 at 5:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Houston Rockets @ Memphis Grizzlies • Nov 5 at 5:00 PM PST
-https://gg.poocloud.in/nba_memphisgrizzlies/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New Orleans Pelicans @ Dallas Mavericks • Nov 5 at 5:30 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",New Orleans Pelicans @ Dallas Mavericks • Nov 5 at 5:30 PM PST
-https://gg.poocloud.in/nba_dallasmavericks/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Miami Heat @ Denver Nuggets • Nov 5 at 6:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Miami Heat @ Denver Nuggets • Nov 5 at 6:00 PM PST
-https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs @ Los Angeles Lakers • Nov 5 at 7:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",San Antonio Spurs @ Los Angeles Lakers • Nov 5 at 7:00 PM PST
-https://gg.poocloud.in/nba_losangeleslakers/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Portland Trail Blazers • Nov 5 at 7:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Oklahoma City Thunder @ Portland Trail Blazers • Nov 5 at 7:00 PM PST
-https://gg.poocloud.in/nba_portlandtrailblazers/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Sacramento Kings • Nov 5 at 7:00 PM PST" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="NBAWebcast - Live Today (ALT-2) (ALT-2)",Golden State Warriors @ Sacramento Kings • Nov 5 at 7:00 PM PST
-https://gg.poocloud.in/nba_sacramentokings/tracks-v1a1/mono.ts.m3u8
 
 
 
