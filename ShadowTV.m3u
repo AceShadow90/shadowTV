@@ -1612,36 +1612,23 @@ https://gg.poocloud.in/nba_washingtonwizards/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.M1toxkwAjsIHMoZUfObGJQHaFj?pid=Api&P=0&h=220",NEWS CHANNELS
 
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 #EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="NEWS CHANNELS",ANC HD (TFC)
 https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="france24-1" tvg-name="FRANCE24 (CON)" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NEWS CHANNELS",FRANCE24
-http://161.49.17.2:6610/001/2/ch00000090990000001157/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",CA CNN
+http://nocable.cc:8080/live/5AGbfz/324331/47213.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",CNN INTERNATIONAL
-http://161.49.17.2:6610/001/2/ch00000090990000001073/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="usatoday" tvg-name="USA TODAY" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/usa_today-logo_brandlogos.net_9jygb.png" group-title="NEWS CHANNELS",USA TODAY
-http://161.49.17.2:6610/001/2/ch00000090990000001199/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="tv5monde1" tvg-name="TV5 MONDE (CON)" tvg-logo="https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png" group-title="NEWS CHANNELS",TV5 MONDE ASIE
-http://161.49.17.2:6610/001/2/ch00000090990000001156/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
+#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",US CNN
+http://nocable.cc:8080/live/5AGbfz/324331/104884.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sky-news-au.png" group-title="NEWS CHANNELS",Skynews
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="NEWS CHANNELS",Al Jazeera
-https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8
+http://nocable.cc:8080/live/5AGbfz/324331/160711.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NEWS CHANNELS",AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -1649,39 +1636,38 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="bbcnewsph1" tvg-name="BBC NEWS (CON)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="NEWS CHANNELS",BBC NEWS
-http://161.49.17.2:6610/001/2/ch00000090990000001144/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cgtnph1" tvg-name="CGTN CHANNEL (CON)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="NEWS CHANNELS",CGTN
-http://161.49.17.2:6610/001/2/ch00000090990000001146/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://nocable.cc:8080/live/5AGbfz/324331/53757.m3u8
 
 
 #EXTINF:-1 group-title="NEWS CHANNELS",BBC WORLD NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
 #EXTINF:-1 group-title="NEWS CHANNELS",BLOOMBERG
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-
 #EXTINF:-1 group-title="NEWS CHANNELS",BLOOMBERG TV ASIA
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="NEWS CHANNELS",CBS NEWS
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/bbc-world-news-int.png" tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" group-title="NEWS CHANNELS" streamId="6" channel-number="6",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="NEWS CHANNELS",ABC News Live (720p)
 https://livetv-fa.tubi.video/abc-news/index.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-news-now-us.png" group-title="NEWS CHANNELS",NBC News Now (1080p)
-https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC
+http://nocable.cc:8080/live/5AGbfz/324331/9815.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC (CON)
-http://161.49.17.2:6610/001/2/ch00000090990000001344/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC WORLD
+http://nocable.cc:8080/live/5AGbfz/324331/20860.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="NEWS CHANNELS", FOX News Now (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="NEWS CHANNELS", FOX News Now
+https://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NEWS CHANNELS",Fox News Channel (720p)
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
@@ -1695,21 +1681,21 @@ https://livetv-fa.tubi.video/fox-weather/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/wion-int.png" group-title="NEWS CHANNELS",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/weather-spy-vod.png" group-title="NEWS CHANNELS",Weather Spy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NEWS CHANNELS",United Nations 🇺🇳 Web Tv
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/accuweather-us.png" group-title="NEWS CHANNELS",The Accuweather Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 https://livetv-fa.tubi.video/abc-news/index.m3u8
-
+#EXTINF:-1 tvg-id="KATCDT1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/abc-3-katc-us.png" group-title="NEWS CHANNELS",ABC 3 Lafayette LA (KATC) (720p)
+https://aegis-cloudfront-1.tubi.video/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8
 #EXTINF:-1 tvg-id="KSHBDT1.us" tvg-logo="" group-title="NEWS CHANNELS",NBC 41 Kansas City MO (KSHB) (720p)
 https://livetv-fa.tubi.video/kshb2/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-news-now-us.png" group-title="NEWS CHANNELS",NBC News Now (1080p)
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/news12-new-york-us.png" group-title="NEWS CHANNELS",News 12 New York (1080p)
+https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
 
 
 
