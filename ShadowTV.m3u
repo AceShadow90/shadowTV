@@ -11,6 +11,9 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="PH CableTV BackUp",Kapatid International
 http://103.244.145.15/live/anita123/anita123/151029.m3u8?token=ShJcU0BbQQNHAAdbVFQGXF9RBgNRBQJRCVtaVVFSUQYGUwZWBwcAW1AbGBpEF0dcWF1vWQIXXlAEU1IFXEgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH CableTV BackUp", GMA 7(TEST)
+https://stream.honortvph.totalh.net/gma/index.m3u8
+
 #EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PH CableTV BackUp",TFC ASIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
@@ -1342,76 +1345,33 @@ http://supersonictv.live:8080/611366/682256/22125
 
 
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Boston Celtics vs Orlando Magic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Boston Celtics vs Orlando Magic
-https://gg.poocloud.in/nba_orlandomagic/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Cleveland Cavaliers vs Washington Wizards" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Cleveland Cavaliers vs Washington Wizards
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Dallas Mavericks vs Washington Wizards" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Dallas Mavericks vs Washington Wizards (08:00 AM PHT)
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Toronto Raptors vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Toronto Raptors vs Atlanta Hawks
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Toronto Raptors vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Toronto Raptors vs Philadelphia 76ers (08:30 AM PHT)
+https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Los Angeles Lakers vs Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Los Angeles Lakers vs Atlanta Hawks (09:00 AM PHT)
 https://gg.poocloud.in/nba_atlantahawks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Detroit Pistons vs Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Detroit Pistons vs Brooklyn Nets
-https://gg.poocloud.in/nba_brooklynnets/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Chicago Bulls vs Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Chicago Bulls vs Cleveland Cavaliers (09:00 AM PHT)
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Houston Rockets vs San Antonio Spurs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Houston Rockets vs San Antonio Spurs
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Charlotte Hornets vs Miami Heat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Charlotte Hornets vs Miami Heat
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Portland Trail Blazers vs Miami Heat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Portland Trail Blazers vs Miami Heat (09:00 AM PHT)
 https://gg.poocloud.in/nba_miamiheat/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Dallas Mavericks vs Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Dallas Mavericks vs Memphis Grizzlies
-https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="New Orleans Pelicans vs San Antonio Spurs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",New Orleans Pelicans vs San Antonio Spurs (09:00 AM PHT)
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Chicago Bulls vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Chicago Bulls vs Milwaukee Bucks
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Utah Jazz vs Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Utah Jazz vs Minnesota Timberwolves
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Golden State Warriors vs Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Golden State Warriors vs Denver Nuggets
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Indiana Pacers vs Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Indiana Pacers vs Denver Nuggets (10:00 AM PHT)
 https://gg.poocloud.in/nba_denvernuggets/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Oklahoma City Thunder vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Oklahoma City Thunder vs Sacramento Kings
-https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Phoenix Suns vs LA Clippers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Today",Phoenix Suns vs LA Clippers (11:30 AM PHT)
+https://gg.poocloud.in/nba_laclippers/index.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Orlando Magic • Nov 7 at 4:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Boston Celtics @ Orlando Magic • Nov 7 at 4:00 PM PST
-https://gg.poocloud.in/nba_orlandomagic/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers @ Washington Wizards • Nov 7 at 4:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Cleveland Cavaliers @ Washington Wizards • Nov 7 at 4:00 PM PST
-https://gg.poocloud.in/nba_washingtonwizards/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ Atlanta Hawks • Nov 7 at 4:30 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Toronto Raptors @ Atlanta Hawks • Nov 7 at 4:30 PM PST
-https://gg.poocloud.in/hawks/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Detroit Pistons @ Brooklyn Nets • Nov 7 at 4:30 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Detroit Pistons @ Brooklyn Nets • Nov 7 at 4:30 PM PST
-https://gg.poocloud.in/nba_brooklynnets/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Houston Rockets @ San Antonio Spurs • Nov 7 at 4:30 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Houston Rockets @ San Antonio Spurs • Nov 7 at 4:30 PM PST
-https://gg.poocloud.in/nba_sanantoniospurs/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Miami Heat • Nov 7 at 5:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Charlotte Hornets @ Miami Heat • Nov 7 at 5:00 PM PST
-https://gg.poocloud.in/nba_miamiheat/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks @ Memphis Grizzlies • Nov 7 at 5:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Dallas Mavericks @ Memphis Grizzlies • Nov 7 at 5:00 PM PST
-https://gg.poocloud.in/nba_memphisgrizzlies/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls @ Milwaukee Bucks • Nov 7 at 5:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Chicago Bulls @ Milwaukee Bucks • Nov 7 at 5:00 PM PST
-https://gg.poocloud.in/nba_milwaukeebucks/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Minnesota Timberwolves • Nov 7 at 5:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Utah Jazz @ Minnesota Timberwolves • Nov 7 at 5:00 PM PST
-https://gg.poocloud.in/nba_minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Golden State Warriors @ Denver Nuggets • Nov 7 at 7:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Golden State Warriors @ Denver Nuggets • Nov 7 at 7:00 PM PST
-https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Sacramento Kings • Nov 7 at 7:00 PM PST" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="NBA - Live Today (ALT-2)",Oklahoma City Thunder @ Sacramento Kings • Nov 7 at 7:00 PM PST
-https://gg.poocloud.in/nba_sacramentokings/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -1725,23 +1685,8 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Amazon.US.StarzKidsAndFamilyHDEast" group-title="KIDS CHANNELS" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png",Starz Kids & Family HD East
 https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out/v1/54ee39a134714248b735eb986bff786d/cenc.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="KIDS CHANNELS",Cartoonito 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="KIDS CHANNELS", Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1 group-title="KIDS CHANNELS",NICKELODEON
 http://212.102.60.231/NICKELODEON/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="KIDS CHANNELS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="LittleStarsUniverse.us" tvg-name="Little Stars Universe" tvg-logo="" group-title="KIDS CHANNELS",Little Stars Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b
