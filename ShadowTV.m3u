@@ -14,10 +14,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH HayabusaTV", GMA 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH HayabusaTV", GMA 7(TEST)
 https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
 
-#EXTINF:-1 tvg-logo="" group-title="PH HayabusaTV", GTV
+#EXTINF:-1 tvg-logo="" group-title="PH HayabusaTV", GTV(TEST)
 https://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="PH HayabusaTV",Kapatid International (test)
