@@ -1844,14 +1844,29 @@ http://supersonictv.live:8080/611366/682256/22125
 
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c1edd1823dfb05bab687ca2686fd7ea7-thumbnail.jpg" group-title="NBA - Games Today",Toronto Raptors vs. Cleveland Cavaliers
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e272f0c7bf49e374bba3b16df8874b50-thumbnail.jpg" group-title="NBA - Games Today",Miami Heat vs. New York Knicks (East Group C) (Nov 15 @ 08:00 AM PHT)
+https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/955758ef984b19124ca0113c818b442b-thumbnail.jpg" group-title="NBA - Games Today",Indiana Pacers vs. Phoenix Suns
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c86099372e3e105e23ce3c069a455dbd-thumbnail.jpg" group-title="NBA - Games Today",Brooklyn Nets vs. Orlando Magic (East Group B) (Nov 15 @ 08:00 AM PHT)
+https://gg.poocloud.in/nba_orlandomagic/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cfd00837a13d1272b40ca6e8d112133a-thumbnail.jpg" group-title="NBA - Games Today",Atlanta Hawks vs. Utah Jazz
-https://gg.poocloud.in/nba_utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e74502d15b94ce97eba26f1b214a2c94-thumbnail.jpg" group-title="NBA - Games Today",Philadelphia 76ers vs. Detroit Pistons (East Group B) (Nov 15 @ 08:30 AM PHT)
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/04507f2b605acbe0bcb855155354f17d-thumbnail.jpg" group-title="NBA - Games Today",Portland Trail Blazers vs. Houston Rockets (West Group C) (Nov 15 @ 09:00 AM PHT)
+https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ce722507dc9e073bed8c8d911911b3b3-thumbnail.jpg" group-title="NBA - Games Today",Charlotte Hornets vs. Milwaukee Bucks (East Group C) (Nov 15 @ 09:00 AM PHT)
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/989d3e8e8dcc8f3cf3aba1a196e66158-thumbnail.jpg" group-title="NBA - Games Today",Sacramento Kings vs. Minnesota Timberwolves (West Group A) (Nov 15 @ 09:00 AM PHT)
+https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0f43ce163452dd11f86f2e136bba3521-thumbnail.jpg" group-title="NBA - Games Today",Los Angeles Lakers vs. New Orleans Pelicans (West Group B) (Nov 15 @ 09:00 AM PHT)
+https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/79e5ab23c2a855f12d8148f2092a54e3-thumbnail.jpg" group-title="NBA - Games Today",LA Clippers vs. Dallas Mavericks (West Group B) (Nov 15 @ 09:30 AM PHT)
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
 
 
 
