@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e79e86872ab9b773bca34c658cb7ba9c-thumbnail.jpg" group-title="LIVE NBA Games Today",4:30 AM LA Clippers vs. Boston Celtics (Nov 17) [NBCSB]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e79e86872ab9b773bca34c658cb7ba9c-thumbnail.jpg" group-title="LIVE NBA Games Today",4:30AM LA Clippers vs. Boston Celtics (Nov 17) [NBCSB]
 https://gg.poocloud.in/nba_bostonceltics/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2e03205a6958e224effb5a6f3a8acd03-thumbnail.jpg" group-title="LIVE NBA Games Today",5:00 AM Sacramento Kings vs. San Antonio Spurs (Nov 17) [FDSNSW]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2e03205a6958e224effb5a6f3a8acd03-thumbnail.jpg" group-title="LIVE NBA Games Today",5AM Sacramento Kings vs. San Antonio Spurs (Nov 17) [FDSNSW]
 https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e9d80fa6ab4175165dacfadfc2f36dd7-thumbnail.jpg" group-title="LIVE NBA Games Today",7:00 AM Brooklyn Nets vs. Washington Wizards (Nov 17) [MNMT]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e9d80fa6ab4175165dacfadfc2f36dd7-thumbnail.jpg" group-title="LIVE NBA Games Today",7AM Brooklyn Nets vs. Washington Wizards (Nov 17) [MNMT]
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/49d2553635469e1968456b0a62ce1fb1-thumbnail.jpg" group-title="LIVE NBA Games Today",8:00 AM Orlando Magic vs. Houston Rockets (Nov 17) [SCHN]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/49d2553635469e1968456b0a62ce1fb1-thumbnail.jpg" group-title="LIVE NBA Games Today",8AM Orlando Magic vs. Houston Rockets (Nov 17) [SCHN]
 https://gg.poocloud.in/nba_houstonrockets/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ba89b05ec7127489fd135046060b4ce0-thumbnail.jpg" group-title="LIVE NBA Games Today",8:00 AM Golden State Warriors vs. New Orleans Pelicans (Nov 17) [GCSEN]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ba89b05ec7127489fd135046060b4ce0-thumbnail.jpg" group-title="LIVE NBA Games Today",8AM Golden State Warriors vs. New Orleans Pelicans (Nov 17) [GCSEN]
 https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d456f2bde48eb5a8655cb32a33e4c641-thumbnail.jpg" group-title="LIVE NBA Games Today",8:30 AM Portland Trail Blazers vs. Dallas Mavericks (Nov 17) [KFAA]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d456f2bde48eb5a8655cb32a33e4c641-thumbnail.jpg" group-title="LIVE NBA Games Today",8:30AM Portland Trail Blazers vs. Dallas Mavericks (Nov 17) [KFAA]
 https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cb31e1e30b5e9a06d4a35acf0c944838-thumbnail.jpg" group-title="LIVE NBA Games Today",9:00 AMAtlanta Hawks vs. Phoenix Suns (Nov 17) [KTVK]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cb31e1e30b5e9a06d4a35acf0c944838-thumbnail.jpg" group-title="LIVE NBA Games Today",9AM Atlanta Hawks vs. Phoenix Suns (Nov 17) [KTVK]
 https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f6848207130a9dbdde02ac56e0cd8c8b-thumbnail.jpg" group-title="LIVE NBA Games Today",9:00 AM Chicago Bulls vs. Utah Jazz (Nov 17) [KJZZ]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f6848207130a9dbdde02ac56e0cd8c8b-thumbnail.jpg" group-title="LIVE NBA Games Today",9AM Chicago Bulls vs. Utah Jazz (Nov 17) [KJZZ]
 https://gg.poocloud.in/nba_utahjazz/index.m3u8
 
 
@@ -30,43 +30,43 @@ https://gg.poocloud.in/nba_utahjazz/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg" group-title="LIVE NFL Games Today",NFL RedZone (Nov 17 @ 02:00 AM PHT) [NFL RedZone]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/54aa61e14195478973adbd4719599cb5-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM NFL RedZone (Nov 17) [NFL RedZone]
 https://gg.poocloud.in/redzone/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fa7b8fc345425626133d11e328ddf470-thumbnail.jpg" group-title="LIVE NFL Games Today",Carolina Panthers vs. Atlanta Falcons (Nov 17 @ 02:00 AM PHT) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fa7b8fc345425626133d11e328ddf470-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM Carolina Panthers vs. Atlanta Falcons (Nov 17) [FOX]
 https://gg.poocloud.in/atlantafalcons/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ee2f0234de4c486b262c5d2d52818aa3-thumbnail.jpg" group-title="LIVE NFL Games Today",Tampa Bay Buccaneers vs. Buffalo Bills (Nov 17 @ 02:00 AM PHT) [CBS]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ee2f0234de4c486b262c5d2d52818aa3-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM Tampa Bay Buccaneers vs. Buffalo Bills (Nov 17) [CBS]
 https://gg.poocloud.in/buffalobills/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b1a5e298ce0a2863ba6333e5c7638b0a-thumbnail.jpg" group-title="LIVE NFL Games Today",Houston Texans vs. Tennessee Titans (Nov 17 @ 02:00 AM PHT) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b1a5e298ce0a2863ba6333e5c7638b0a-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM Houston Texans vs. Tennessee Titans (Nov 17) [FOX]
 https://gg.poocloud.in/tennesseetitans/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1cf6e085a279ebe93bdaa092100cc98a-thumbnail.jpg" group-title="LIVE NFL Games Today",Chicago Bears vs. Minnesota Vikings (Nov 17 @ 02:00 AM PHT) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1cf6e085a279ebe93bdaa092100cc98a-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM Chicago Bears vs. Minnesota Vikings (Nov 17) [FOX]
 https://gg.poocloud.in/minnesotavikings/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6976188d79499c1f528f511feca652bf-thumbnail.jpg" group-title="LIVE NFL Games Today",Green Bay Packers vs. New York Giants (Nov 17 @ 02:00 AM PHT) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6976188d79499c1f528f511feca652bf-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM Green Bay Packers vs. New York Giants (Nov 17) [FOX]
 https://gg.poocloud.in/newyorkgiants/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/16db1e0d08aecfd77829338a221acb7a-thumbnail.jpg" group-title="LIVE NFL Games Today",Cincinnati Bengals vs. Pittsburgh Steelers (Nov 17 @ 02:00 AM PHT) [CBS]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/16db1e0d08aecfd77829338a221acb7a-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM Cincinnati Bengals vs. Pittsburgh Steelers (Nov 17) [CBS]
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2cb6c34ea00bcfc5a11fea62f410a351-thumbnail.jpg" group-title="LIVE NFL Games Today",Los Angeles Chargers vs. Jacksonville Jaguars (Nov 17 @ 02:00 AM PHT) [CBS]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2cb6c34ea00bcfc5a11fea62f410a351-thumbnail.jpg" group-title="LIVE NFL Games Today",2AM Los Angeles Chargers vs. Jacksonville Jaguars (Nov 17) [CBS]
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5bb8c89893779e2382c37b9d72285d38-thumbnail.jpg" group-title="LIVE NFL Games Today",Seattle Seahawks vs. Los Angeles Rams (Nov 17 @ 05:05 AM PHT) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5bb8c89893779e2382c37b9d72285d38-thumbnail.jpg" group-title="LIVE NFL Games Today",5:05AM Seattle Seahawks vs. Los Angeles Rams (Nov 17) [FOX]
 https://gg.poocloud.in/losangelesrams/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6b50c79debff092214fa052f1b6697d6-thumbnail.jpg" group-title="LIVE NFL Games Today",San Francisco 49ers vs. Arizona Cardinals (Nov 17 @ 05:05 AM PHT) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6b50c79debff092214fa052f1b6697d6-thumbnail.jpg" group-title="LIVE NFL Games Today",5:05AM San Francisco 49ers vs. Arizona Cardinals (Nov 17) [FOX]
 https://gg.poocloud.in/arizonacardinals/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95c4ebfbaf7fc7dcbdaf2209e0c18d1b-thumbnail.jpg" group-title="LIVE NFL Games Today", @5:25AM Baltimore Ravens vs. Cleveland Browns (Nov 17) [CBS]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95c4ebfbaf7fc7dcbdaf2209e0c18d1b-thumbnail.jpg" group-title="LIVE NFL Games Today",5:25AM Baltimore Ravens vs. Cleveland Browns (Nov 17) [CBS]
 https://gg.poocloud.in/clevelandbrowns/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e44452c968e07e7548f4b773e489bb3b-thumbnail.jpg" group-title="LIVE NFL Games Today",@5:25AM Kansas City Chiefs vs. Denver Broncos (Nov 17) [CBS]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e44452c968e07e7548f4b773e489bb3b-thumbnail.jpg" group-title="LIVE NFL Games Today",5:25AM Kansas City Chiefs vs. Denver Broncos (Nov 17) [CBS]
 https://gg.poocloud.in/denverbroncos/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fa89b1b957c4758b182991f4615e302f-thumbnail.jpg" group-title="LIVE NFL Games Today", @9:20AM Detroit Lions vs. Philadelphia Eagles (Nov 17) [NBC]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fa89b1b957c4758b182991f4615e302f-thumbnail.jpg" group-title="LIVE NFL Games Today",9:20AM Detroit Lions vs. Philadelphia Eagles (Nov 17) [NBC]
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 
 
@@ -121,6 +121,7 @@ https://gg.poocloud.in/wc_ita/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/22750b4902c2558ffe63995d580f7b7f-thumbnail.jpg" group-title="LIVE Global Football Games Today",@3:45AM Israel vs. Moldova (Nov 17) [WC Qualifying]
 https://gg.poocloud.in/wc_isr/tracks-v1a1/mono.ts.m3u8
+
 
 
 
