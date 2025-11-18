@@ -1,65 +1,71 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/aedda10dd77576c5e2d80e1a13554e7e-thumbnail.jpg" group-title="NBA Games",@8AM Milwaukee Bucks vs. Cleveland Cavaliers (Nov 18) [Peacock]
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e695e48cfc24b46b801f51d03f03df2a-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@8AM Golden State Warriors vs. Orlando Magic (Nov 19) [FDSNFL]
+https://gg.poocloud.in/nba_orlandomagic/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b1bcd80c5a15a7ff45c30c374359b3e7-thumbnail.jpg" group-title="NBA Games",@8AM Indiana Pacers vs. Detroit Pistons (Nov 18) [FDSNDT]
-https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ed2f49db5d70bc8e24bd191c28cd23a8-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@8:30AM Boston Celtics vs. Brooklyn Nets (Nov 19) [YES]
+https://gg.poocloud.in/nba_brooklynnets/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fe5dd6f4cb575aee8978f8cbecbae0c8-thumbnail.jpg" group-title="NBA Games",@8AM LA Clippers vs. Philadelphia 76ers (Nov 18) [NBCSP]
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/77791264d7d5ecc11c194098f693a9de-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@8:30AM Detroit Pistons vs. Atlanta Hawks (Nov 19) [FDSNSE-ATL]
+https://gg.poocloud.in/nba_atlantahawks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/468bfef2338ad7b0b36d7c0458793e92-thumbnail.jpg" group-title="NBA Games",@8:30 AM New York Knicks vs. Miami Heat (Nov 18) [FDSNSU]
-https://gg.poocloud.in/nba_miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@9AM Memphis Grizzlies vs. San Antonio Spurs (Nov 19) [Peacock]
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/99db37e322f63b249487e13379b8182c-thumbnail.jpg" group-title="NBA Games",@8:30 AM Charlotte Hornets vs. Toronto Raptors (Nov 18) [FDSNSE-CHA]
-https://gg.poocloud.in/nba_torontoraptors/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6653d29a93af2b7e4be307f9f7109c1f-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@11:30AM Utah Jazz vs. Los Angeles Lakers (Nov 19) [SPECSN]
+https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4649f72fd2665efd183e9e5504b2264-thumbnail.jpg" group-title="NBA Games",@9AM Dallas Mavericks vs. Minnesota Timberwolves (Nov 18) [FDSNNO]
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2eb2883e4061fda678a097b1f2f0bfcd-thumbnail.jpg" group-title="NBA Games",@9AM Oklahoma City Thunder vs. New Orleans Pelicans (Nov 18) [GCSEN]
-https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/54e71efed5af22a7c681e5e406753771-thumbnail.jpg" group-title="NBA Games",@10AM Chicago Bulls vs. Denver Nuggets (Nov 18) [ALT]
-https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling Events",@9AM WWE: Monday Night RAW (Nov 18) [Netflix]
-https://gg.poocloud.in/wrestling/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4dba27aa4735346e83752332cd1ebaae-thumbnail.jpg" group-title="NFL Action",@9:15 AM Dallas Cowboys vs. Las Vegas Raiders (Nov 18) [ABC]
-https://gg.poocloud.in/lasvegasraiders/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8bba381d8ae13a2fd31aca353f2330d7-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@12PM Phoenix Suns vs. Portland Trail Blazers (Nov 19) [Peacock]
+https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b51d9ae94e06331c670d728b0a7a8141-thumbnail.jpg" group-title="Global Football Streams",@3:45 AM Czechia vs. Gibraltar (Nov 18) [WC Qualifying]
-https://gg.poocloud.in/wc_cze/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bc029260ef40d988a1fc1851c2bed84d-thumbnail.jpg" group-title="Global Football Streams",@3:45 AM Northern Ireland vs. Luxembourg (Nov 18) [WC Qualifying]
-https://gg.poocloud.in/wc_nir/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c0d5fb534faa2b6f1d47120bdde67fce-thumbnail.jpg" group-title="Global Football Streams",@3:45 AM Montenegro vs. Croatia (Nov 18) [WC Qualifying]
-https://gg.poocloud.in/wc_mne/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2481cf7dd7500299937d25ef888b0079-thumbnail.jpg" group-title="Global Football Streams",@3:45 AM Malta vs. Poland (Nov 18) [WC Qualifying]
-https://gg.poocloud.in/wc_mlt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="🤼 WWE Wrestling Event Today",@8AM WWE: NXT (Nov 19) [Netflix]
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/782d15ceccf823f5881d9b8af99fcd18-thumbnail.jpg" group-title="Global Football Streams",@3:45 AM Germany vs. Slovakia (Nov 18) [WC Qualifying]
-https://gg.poocloud.in/wc_ger/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/31f32c9de73ec8d88e2199e043502ada-thumbnail.jpg" group-title="Global Football Streams",@3:45 AM Netherlands vs. Lithuania (Nov 18) [WC Qualifying]
-https://gg.poocloud.in/wc_ned/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8be3f61f283d6a579b11fb7562f113ee-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Austria vs. Bosnia and Herzegovina (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_aut/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95ad550d7814d5862be32fb658e7bc4e-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Sweden vs. Slovenia (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_swe/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9b38865b248acea35b503d2e55162829-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Wales vs. North Macedonia (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_wal/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d809a7014be1a21b1d493fa8721cf1f2-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Romania vs. San Marino (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_rou/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cc6392de9aa3fcf345472c1bb3549617-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Kosovo vs. Switzerland (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_kos/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3d865227cbaf2d17872dafc5b5fe7f33-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Scotland vs. Denmark (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_sco/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2e19dd7a6039953c2f598006a4869913-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Bulgaria vs. Georgia (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_bul/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e952200c3fb97aa1286bf30bb37a1341-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Belarus vs. Greece (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_blr/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8a853c22605b8a34775cfcd79e7372d-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Spain vs. Türki̇ye (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_esp/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/417c880e347e173be9181ee894ea0ae7-thumbnail.jpg" group-title="Global Football Streams Today",@3:45AM Belgium vs. Liechtenstein (Nov 19) [WC Qualifying]
+https://gg.poocloud.in/wc_bel/index.m3u8
 
 
 
