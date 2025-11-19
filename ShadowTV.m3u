@@ -1,83 +1,24 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@8AM Houston Rockets vs. Cleveland Cavaliers (Nov 20)
-https://nba.honotvph.42web.io/nba1/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@8AM Charlotte Hornets vs. Indiana Pacers (Nov 20)
-https://nba.honotvph.42web.io/nba2/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@8AM Toronto Raptors vs. Philadelphia 76ers (Nov 20)
-https://nba.honotvph.42web.io/nba3/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@8:30AM Golden State Warriors vs. Miami Heat (Nov 20)
-https://nba.honotvph.42web.io/nba4/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@9AM Washington Wizards vs. Minnesota Timberwolves (Nov 20)
-https://nba.honotvph.42web.io/nba5/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@9AM Denver Nuggets vs. New Orleans Pelicans (Nov 20)
-https://nba.honotvph.42web.io/nba6/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@9AM Sacramento Kings vs. Oklahoma City Thunder (Nov 20)
-https://nba.honotvph.42web.io/nba7/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@10.30AM York Knicks vs. Dallas Mavericks (Nov 20)
-https://nba.honotvph.42web.io/nba8/index.m3u8
-
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today S2",@11AM Chicago Bulls vs. Portland Trail Blazers (Nov 20)
-https://nba.honotvph.42web.io/nba9/index.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Houston Rockets vs. Cleveland Cavaliers (Nov 20)
-https://gg.poocloud.in/nba_houstonrockets/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Houston Rockets vs. Cleveland Cavaliers (Nov 20) ALT-2
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Houston Rockets vs. Cleveland Cavaliers (Nov 20)https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Charlotte Hornets vs. Indiana Pacers (Nov 20)
-https://gg.poocloud.in/nba_charlottehornets/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Charlotte Hornets vs. Indiana Pacers (Nov 20) ALT-2
 https://gg.poocloud.in/nba_indianapacers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Toronto Raptors vs. Philadelphia 76ers (Nov 20)
-https://gg.poocloud.in/nba_torontoraptors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Toronto Raptors vs. Philadelphia 76ers (Nov 20) ALT-2
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8:30AM Golden State Warriors vs. Miami Heat (Nov 20)
 https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8:30AM Golden State Warriors vs. Miami Heat (Nov 20) ALT-2
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8:30AM Golden State Warriors vs. Miami Heat (Nov 20)
 https://gg.poocloud.in/nba_miamiheat/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Washington Wizards vs. Minnesota Timberwolves (Nov 20)
-https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Washington Wizards vs. Minnesota Timberwolves (Nov 20) ALT-2
 https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Denver Nuggets vs. New Orleans Pelicans (Nov 20)
-https://gg.poocloud.in/nba_denvernuggets/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Denver Nuggets vs. New Orleans Pelicans (Nov 20) ALT-2
 https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Sacramento Kings vs. Oklahoma City Thunder (Nov 20)
-https://gg.poocloud.in/nba_sacramentokings/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Sacramento Kings vs. Oklahoma City Thunder (Nov 20) ALT-2
 https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@10.30AM York Knicks vs. Dallas Mavericks (Nov 20)
@@ -91,6 +32,8 @@ https://gg.poocloud.in/nba_chicagobulls/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@11AM Chicago Bulls vs. Portland Trail Blazers (Nov 20) ALT-2
 https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
+
+
 
 
 
