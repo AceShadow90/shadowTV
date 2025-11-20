@@ -1,36 +1,25 @@
 #EXTM3U
-
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Houston Rockets vs. Cleveland Cavaliers (Nov 20)
-https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/602761bf0d0eb49f4e8f313b32deb8e4-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@8AM LA Clippers vs. Orlando Magic (Nov 21,FRIDAY)
+https://gg.poocloud.in/nba_orlandomagic/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8AM Charlotte Hornets vs. Indiana Pacers (Nov 20)
-https://gg.poocloud.in/nba_indianapacers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/587b7115d1e4d29e53e2c82d326dfb7a-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@9AM Sacramento Kings vs. Memphis Grizzlies (Nov 21,FRIDAY)
+https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@8:30AM Golden State Warriors vs. Miami Heat (Nov 20)
-https://gg.poocloud.in/nba_miamiheat/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/25acf6e6e4f0898a888148f6c366d23b-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@9AM Philadelphia 76ers vs. Milwaukee Bucks (Nov 21,FRIDAY)
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Washington Wizards vs. Minnesota Timberwolves (Nov 20)
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0b8df1fe150050021b8d7ed32f3898cb-thumbnail.jpg" group-title="🏀 NBA Live Games Today",@9AM Atlanta Hawks vs. San Antonio Spurs (Nov 21,FRIDAY)
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Denver Nuggets vs. New Orleans Pelicans (Nov 20)
-https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="🤼 WWE Event",TNA: Impact (Nov 21,FRIDAY)
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@9AM Sacramento Kings vs. Oklahoma City Thunder (Nov 20)
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4ac24a9a90c0c04ecbea31189930fbbe-thumbnail.jpg" group-title="🏎️ F1- Sky Sports F1 Today",Las Vegas Grand Prix - FP1 (Nov 21,FRIDAY)
+https://gg.poocloud.in/f1/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@10.30AM York Knicks vs. Dallas Mavericks (Nov 20)
-https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@10.30AM York Knicks vs. Dallas Mavericks (Nov 20) ALT-2
-https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@11AM Chicago Bulls vs. Portland Trail Blazers (Nov 20)
-https://gg.poocloud.in/nba_chicagobulls/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live Games Today",@11AM Chicago Bulls vs. Portland Trail Blazers (Nov 20) ALT-2
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
-
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e70db4bcb8788cf56d0e194a2c237b02-thumbnail.jpg" group-title="🏎️ F1- Sky Sports F1 Today",Las Vegas Grand Prix - FP2 (Nov 21,FRIDAY)
+https://gg.poocloud.in/f1/index.m3u8
 
 
 
@@ -2854,7 +2843,7 @@ https://mc-y23j21hvtq.bunny.run/dtv/1000990/master.m3u8
 
 
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
+#EXTM3U
 #EXTINF:-1 group-logo="https://www.eastwestbpo.com/wp/wp-content/uploads/2018/03/converge-logo.png",PH HayabusaTV
 
 
@@ -2872,44 +2861,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH HayabusaTV", GMA 7(Test)
-http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3f/8e/13/3f8e1369e4053ea6955e179d69d6e1e7.jpg" group-title="PH HayabusaTV", GTV
-http://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="PH HayabusaTV",Kapatid International (test)
 http://103.244.145.15/live/anita123/anita123/151029.m3u8?token=ShJcU0BbQQNHAAdbVFQGXF9RBgNRBQJRCVtaVVFSUQYGUwZWBwcAW1AbGBpEF0dcWF1vWQIXXlAEU1IFXEgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="PH HayabusaTV",TV5
-http://vod.nathcreqtives.com/stream/convergenceinc/tv5hd/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="PH HayabusaTV",TV5(test)
 http://103.244.145.15/live/anita123/anita123/150972.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="PH HayabusaTV",RPTV(test)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="PH HayabusaTV",RPTV
 http://103.244.145.15/live/anita123/anita123/151070.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
-#EXTINF:-1 tvg-id="a2z" tvg-name="A2Z" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/a2z-ph.png" group-title="PH HayabusaTV",A2Z(test)
+#EXTINF:-1 tvg-id="a2z" tvg-name="A2Z" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/a2z-ph.png" group-title="PH HayabusaTV",A2Z
 http://103.244.145.15/live/anita123/anita123/151010.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA
-
-#EXTINF:13 group-title="PH HayabusaTV" tvg-id="convergenceinc/nbatv" tvg-logo="", NBA TV
-http://vod.nathcreqtives.com/stream/convergenceinc/nbatv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:9 group-title="PH HayabusaTV" tvg-id="convergenceinc/heartofasia" tvg-logo="", Heart Of Asia
-http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:10 group-title="PH HayabusaTV" tvg-id="convergenceinc/ihm" tvg-logo="", I Heart Movies
-http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:11 group-title="PH HayabusaTV" tvg-id="convergenceinc/jeepneytv" tvg-logo="", Jeepney TV
-http://vod.nathcreqtives.com/stream/convergenceinc/jeepneytv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:1 group-title="PH HayabusaTV" tvg-id="convergenceinc/aniplus" tvg-logo="", Aniplus
-http://vod.nathcreqtives.com/stream/convergenceinc/aniplus/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:3 group-title="PH HayabusaTV" tvg-id="convergenceinc/hbo" tvg-logo="", Cinemax
-http://vod.nathcreqtives.com/stream/convergenceinc/hbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 
 #EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PH HayabusaTV",TFC ASIA
@@ -2933,22 +2895,13 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 
-#EXTINF:4 group-title="PH HayabusaTV" tvg-id="convergenceinc/cinemo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinemo!
-http://vod.nathcreqtives.com/stream/convergenceinc/cinemo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 #EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="PH HayabusaTV",GMA PINOY TV
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/61/GMA_Life_TV_Logo_2024.png" group-title="PH HayabusaTV",GMA Life TV
-http://vod.nathcreqtives.com/stream/convergenceinc/gmalifetv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/61/GMA_Life_TV_Logo_2024.png" group-title="PH HayabusaTV",GMA Life TV(test)
 http://103.244.145.15/live/anita123/anita123/151026.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jkU4cLa.png" group-title="PH HayabusaTV",GMA News TV(test)
-http://vod.nathcreqtives.com/stream/convergenceinc/gmanewstv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jkU4cLa.png" group-title="PH HayabusaTV",GMA News TV(test)
 http://103.244.145.15/live/anita123/anita123/151027.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
@@ -2957,15 +2910,9 @@ http://103.244.145.15/live/anita123/anita123/151027.m3u8?token=ShJcU0BbQQNHWwZaV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
 #EXTINF:-1 group-title="PH HayabusaTV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png", Cinema One
-http://vod.nathcreqtives.com/stream/convergenceinc/cinemaone/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
-
-#EXTINF:-1 group-title="PH HayabusaTV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png", Cinema One
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH HayabusaTV",VIVACINEMA
-http://vod.nathcreqtives.com/stream/convergenceinc/vivacinema/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH HayabusaTV",VIVACINEMA(test)
 http://103.244.145.15/live/anita123/anita123/151090.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
