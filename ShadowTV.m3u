@@ -193,15 +193,52 @@ https://gg.poocloud.in/ll_ala/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-id="HOCKEY.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/0e6d19a1c11c938c941bc990495a898f-thumbnail.jpg" group-title=" 🏒 ICE HOCKEY Live Stream(Dec 6,Sat)",@8AM Vegas Golden Knights vs. New Jersey Devils [MSGSN]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/newjerseydevils/index.m3u8
+
+#EXTINF:-1 tvg-id="HOCKEY.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/45b9ae6a9e873a00a8da6baeace0f2c7-thumbnail.jpg" group-title=" 🏒 ICE HOCKEY Live Stream(Dec 6,Sat)",@8AM Buffalo Sabres vs. Winnipeg Jets [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/winnipegjets/index.m3u8
+
+#EXTINF:-1 tvg-id="HOCKEY.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/5bb8131c5ee1b858eabff36665fe119b-thumbnail.jpg" group-title=" 🏒 ICE HOCKEY Live Stream(Dec 6,Sat)",@9AM San Jose Sharks vs. Dallas Stars [VICTORY+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/dallasstars/index.m3u8
+
+#EXTINF:-1 tvg-id="HOCKEY.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/e39f0be4d416c2e2524ce24b199ac049-thumbnail.jpg" group-title=" 🏒 ICE HOCKEY Live Stream(Dec 6,Sat)",@10AM Utah Mammoth vs. Vancouver Canucks [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/vancouvercanucks/index.m3u8
+
+#EXTINF:-1 tvg-id="HOCKEY.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/6d2336ee3fcd3ada6627a7b7db22a5c2-thumbnail.jpg" group-title=" 🏒 ICE HOCKEY Live Stream(Dec 6,Sat)",@11AM Washington Capitals vs. Anaheim Ducks [KCOP]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/anaheimducks/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e53715e90a78c2d744d6ebad3cac4082-thumbnail.jpg" group-title="🏎️🏁F1 Race Live Stream(Dec 6,Sat)" status="UPCOMING",Abu Dhabi Grand Prix - Qualifying (Dec 06 @ 10:00 PM PHT) [Formula 1]
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://old.ppv.to/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg" group-title="🏎️🏁F1 Race Live Stream(Dec 5,Fri)" status="UPCOMING",@9PM Abu Dhabi Grand Prix - FP2 [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://old.ppv.to/assets/thumb/e691fdcd52c74ad7a1f499ce87247c61-thumbnail.jpg" group-title="🏎️🏁F1 Race Live Stream(Dec 6,Sat)" status="UPCOMING",@6:30PM Abu Dhabi Grand Prix - FP3 [Formula 1]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
+
 
 
 
@@ -213,6 +250,28 @@ https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://old.ppv.to/assets/thumb/eec214b8ea4c56c5ca2f6ec182a0def1-thumbnail.jpg" group-title="🥊 COMBAT SPORTS Live Event(Dec 7,SUN)" status="UPCOMING",@2AM Shabaz Masoud vs. Peter McGrail [DAZN]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/boxing/index.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://old.ppv.to/assets/thumb/7423d101216a621b8ee36cf2df19a0f5-thumbnail.jpg" group-title="🥊 COMBAT SPORTS Live Event(Dec 7,SUN)" status="UPCOMING",@6:30AM Isaac Cruz vs. Lamont Roach [PRIME]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/primeppv/index.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://old.ppv.to/assets/thumb/6381c559afa78de552235c103e13a74c-thumbnail.jpg" group-title="🥊 COMBAT SPORTS Live Event(Dec 7,SUN)" status="UPCOMING",@7AM UFC 323: Dvalishvili vs. Yan 2 [PPV]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ufc/index.m3u8
 
 
 
