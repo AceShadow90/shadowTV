@@ -46,6 +46,31 @@ https://gg.poocloud.in/dallasmavericks/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New Orleans Pelicans vs Brooklyn Nets (Dec 06 - 05:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live Source 2(Dec 7,Sun)",@6AM New Orleans Pelicans vs Brooklyn Nets
+https://cdn9.dbfile.cfd/live/cdn9/playlist.m3u8?expires=1765057157&token=1a6bcd96cbb2c12dcd778dbd2b19e0496e1d652a14800b6af8398c2514ab215c
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Atlanta Hawks vs Washington Wizards (Dec 06 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live Source 2(Dec 7,Sun)",@8AM Atlanta Hawks vs Washington Wizards
+https://cdn10.dbfile.cfd/live/cdn10/playlist.m3u8?expires=1765057909&token=8afd459002f7a052cb410fa68e013e086d73a7a878f62e88daf8aad1ea5c7099
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Milwaukee Bucks vs Detroit Pistons (Dec 06 - 07:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live Source 2(Dec 7,Sun)",@8:30AM Milwaukee Bucks vs Detroit Pistons
+https://cdn11.dbfile.cfd/live/cdn11/playlist.m3u8?expires=1765059939&token=aa22ea870e7e8dab33c2b2084d524f9a412dae7ed4f74c7dedce5e75700d3b58
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Cleveland Cavaliers (Dec 06 - 07:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live Source 2(Dec 7,Sun)",@8:30AM Golden State Warriors vs Cleveland Cavaliers
+https://cdn12.dbfile.cfd/live/cdn12/playlist.m3u8?expires=1765059392&token=34c575e2b8764cd6612b7423e239fc283fa22b80157b0e033ef0f115d9aed395
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Sacramento Kings vs Miami Heat (Dec 06 - 08:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live Source 2(Dec 7,Sun)",@9AM Sacramento Kings vs Miami Heat
+https://cdn13.dbfile.cfd/live/cdn13/playlist.m3u8?expires=1765059941&token=38bd1e46205e4d5f9e7a6dbabde097bd683cf908729f2dde2590a4f5c2332f38
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Clippers vs Minnesota Timberwolves (Dec 06 - 08:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live Source 2(Dec 7,Sun)",@9AM Los Angeles Clippers vs Minnesota Timberwolves
+https://cdn14.dbfile.cfd/live/cdn14/playlist.m3u8?expires=1765059380&token=89af629e65311edc3c1f4d03476bed0d14eae8d3536e70b886833b0f6b91f194
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Dallas Mavericks (Dec 06 - 08:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live Source 2(Dec 7,Sun)",@9:30AM Houston Rockets vs Dallas Mavericks
+https://cdn15.dbfile.cfd/live/cdn15/playlist.m3u8?expires=1765059947&token=f1b7b78c686112c14a9e6919528ab3357220fa48de18d1b6a8e01e1f2ce4f65a
+
+
+
+
 
 #EXTINF:-1 tvg-id="Misc.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" group-title="🏏 Cricket Live Stream (Dec 7,Sun)",@12PM Australia vs. England [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
