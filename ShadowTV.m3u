@@ -1,126 +1,367 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/8b2f2d4da1b1f498a6e5aa0d6d4dbaa7-thumbnail.jpg" group-title="🏀 NBA Live (Dec 11,Thu)",@8:30AM Phoenix Suns vs. Oklahoma City Thunder [PRIME VIDEO]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/oklahomacitythunder/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/f7b8109b09a9c76d8fa64a809de39a99-thumbnail.jpg" group-title="🏀 NBA Live (Dec 12,Fri)",@9AM LA Clippers vs. Houston Rockets [SPACE CITY HOME NETWORK]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/houstonrockets/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/9e34880b11bf85d1b23d17e9e68bc42b-thumbnail.jpg" group-title="🏀 NBA Live (Dec 11,Thu)",@11AM San Antonio Spurs vs. Los Angeles Lakers [PRIME VIDEO]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/losangeleslakers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/8beb2c916ecae025627c2bcafe3ad23f-thumbnail.jpg" group-title="🏀 NBA Live (Dec 12,Fri)",@9AM Boston Celtics vs. Milwaukee Bucks [FANDUEL SN WI]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/milwaukeebucks/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/9241eeac3b086c713da4284b8b446688-thumbnail.jpg" group-title="🏀 NBA Live (Dec 12,Fri)",@9AM Portland Trail Blazers vs. New Orleans Pelicans [GCSEN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/neworleanspelicans/index.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dda813786436b86bcc5290a8be583411-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@1:45AM Villarreal vs. Copenhagen [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_vil/index.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9d57c4edeadda4e353bafb0eaa558dd4-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@1:45AM Qarabağ vs. Ajax [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_qar/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM CBS Sports Golazo Show [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_golazo/index.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a1ffcb323db604d728eb84a29c7d3df0-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM TNT Sports Goals Show [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_goalsxtra/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/148a4a1bf22d168e6910fb284e9f564e-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM B. Dortmund vs. Bodø/Glimt [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_bvb/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ead987e56ac3111c00454fbd198ed96d-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM Leverkusen vs. Newcastle [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_lev/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/69fbece3804f1b8efb5ef58d7e0e00ad-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM Benfica vs. Napoli [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_ben/index.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dcd98bcaf6241ebcd816b02d61f6d38a-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM Juventus vs. Pafos [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_juv/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e464d28702afde0ea13bfa1257991a08-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM Club Brugge vs. Arsenal [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_bru/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7edf4bd63ad7b0253833b39df3319af2-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM Athletic Club vs. Paris [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_ath/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d00eadfc2a8f560bcf16b7fd2315fe8d-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 11,Thu)",@4AM Real Madrid vs. Man City [CHAMPIONS LEAGUE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_rma/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/c265606b6b0e7d19d2b977957622774f-thumbnail.jpg" group-title="🏀 NBA Live (Dec 12,Fri)",@11AM Denver Nuggets vs. Sacramento Kings [NBS SPORTS CA]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/sacramentokings/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dd2347b0a1d4c05b1f0b86f6ade2d1e7-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 11,Thu)",@8AM New York Rangers vs. Chicago Blackhawks [TNT]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0d27c40f975b260b3608650d9e4688bf-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 11,Thu)",@9AM Detroit Red Wings vs. Calgary Flames [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/calgaryflames/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/2b040ac97dda46b94e93b98c33726112-thumbnail.jpg" group-title="🏈 American Football Live Stream(Dec 12,Fri)",@9:15AM Atlanta Falcons vs. Tampa Bay Buccaneers [PRIME VIDEO]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5f7dae9ac904579c4308ee4230c4af71-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 11,Thu)",@9:30AM Florida Panthers vs. Utah Mammoth [UTAH 16]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/utahmammoth/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a1bfbe0c186e2ea029f682a0bffcde0e-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 11,Thu)",@10:30AM Los Angeles Kings vs. Seattle Kraken [TNT]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seattlekraken/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="🎯 Darts Live Event",@3AM World Darts Championship [PDC Darts]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 11,Thu)",@9AM AEW: Wednesday Night Dynamite [TBS]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/000c01f2dc0717c95eaf21e52f81a112-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM GNK Dinamo vs. Real Betis [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_din/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/05aec81436c286cf781ef794073b2297-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Ferencváros vs. Rangers [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_fer/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/571da5da2f6346be15b53f54294497a4-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Young Boys vs. Lille [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_yb/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/60664f86cc21f8d220949d0ad62c4a3d-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Midtjylland vs. Genk [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_mid/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4acd2d000376a204c17de27d59e4a037-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Ludogorets vs. PAOK [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_lud/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a2d84c57e25b9831611f67c35437fc2-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Sturm Graz vs. Crvena Zvezda [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_sgr/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2866b26f15242537794439ba9e941cef-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Nice vs. Braga [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_nic/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a76f262857b7d005bd53a5bc7f8f05f4-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Stuttgart vs. M. Tel-Aviv [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_stu/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8571f94c7df776ac47effe9713451b3d-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Utrecht vs. Nott'm Forest [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_utr/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cbc6a936b21482097a94b20358018707-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Fiorentina vs. Dynamo Kyiv [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_fio/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/106cba7c5ff076ea39b3dbdf372f1b31-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Jagiellonia vs. Rayo Vallecano [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_jag/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/295001b0bbfd4a5f7b513a056bccb73f-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Drita vs. AZ Alkmaar [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_dri/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/16161d0330a06471e2b19ee466f1cb28-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Breiðablik vs. Shamrock Rovers [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_brd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f0f537b916a989a9c03b321818851461-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Samsunspor vs. AEK Athens [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_sam/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8e8d0919fb77027a466e89dabaa68418-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Shkëndija vs. S. Bratislava [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_skn/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b32ef21c74d46f1d10bd1e2f53abf22f-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Häcken vs. AEK Larnaca [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_hac/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b8e22cf6b6bcca42a32f00a7e47e6ea9-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM U. Craiova vs. Sparta Praha [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_ucr/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ace25470565c3f9d0665e546fc84ff12-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@1:45AM Noah vs. Legia Warszawa [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_noa/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c900ac0218352ab7db5d81faf6b824d7-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Porto vs. Malmö [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_por/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/00c045cc1ff17cd977b02f4da74f9f87-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Lyon vs. Go Ahead Eagles [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_lyo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a9fd365307b3ff714d34e1420969e80a-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Celtic vs. Roma [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_cel/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f4091680f3f6746cd19ea21b2bca87e4-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Basel vs. Aston Villa [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_bsl/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bcb0003bde09bedfbb1c38636ec79ccd-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Freiburg vs. Salzburg [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_fre/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a70a3d459e5f94f0eefd467872bf0d35-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM FCSB vs. Feyenoord [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_fcsb/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/587ec59cb85b8c8986e3ee4ced7dd207-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Celta vs. Bologna [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_clt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/14be10e39d67c84fb1a6c68479457009-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Panathinaikos vs. Viktoria Plzeň [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_pan/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6cde3f3ea3dfe1fb1030d997f29c796c-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Brann vs. Fenerbahçe [Europa League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uel_brn/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d7c8f4da9cb95b75f6b66baa0697ae58-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM SK Rapid vs. Omonoia [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_rap/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a7c0c0307f3a859c31d4df72de55122a-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Lech Poznań vs. Mainz [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_lpo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/971af48d25f866a1f5157c8b72fdb663-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Rijeka vs. Celje [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_rij/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c957ac0e5b54bcd577fcc1f7af07059c-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM L. Red Imps vs. Sigma Olomouc [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_lri/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/099bbf1860702d9bc2d4fda159b62732-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM KuPS Kuopio vs. Lausanne-Sport [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_kup/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/67a9eab3479e0720d38a16dee8b6bb73-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Aberdeen vs. Strasbourg [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_abe/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/02b024cc9361df0418e4dfe98d870c7c-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Raków vs. Zrinjski [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_rak/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fb26206a5ae3085f66906e207a94023a-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Hamrun Spartans  vs. Shakhtar [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_hsp/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4b22577db27e7f151896f323c96fe289-thumbnail.jpg" group-title="⚽ Global Footbal Live Stream(Dec 12,Fri)",@4AM Shelbourne vs. Crystal Palace [Conference League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/uecl_shl/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/75f6e6cb12287d680ace88206cddf9e2-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@8AM San Jose Sharks vs. Toronto Maple Leafs [ESPN+]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/torontomapleleafs/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a24647e5372d5a55e69fc2eec14cf15-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@8AM Tampa Bay Lightning vs. New Jersey Devils [MSG]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/newjerseydevils/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/322e0e0198f6d1151aca5f281aadd0e5-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@8AM Anaheim Ducks vs. New York Islanders [MSGSN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/newyorkislanders/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1d20bc59d682d5051e2bda8b9576de6c-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@8AM Vegas Golden Knights vs. Philadelphia Flyers [ESPN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/philadelphiaflyers/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6c1dc75889c0c83388d621de2b24d4fa-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@8AM Montreal Canadiens vs. Pittsburgh Penguins [ESPN+]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/eb370cec99aeb131008b19621f40200d-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@8AM Carolina Hurricanes vs. Washington Capitals [MNMT]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/washingtoncapitals/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/66d9741bc1fcbde04e4b9131c3608382-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@8AM Ottawa Senators vs. Columbus Blue Jackets [FanDuel SN OH]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/columbusbluejackets/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a316216f9b76262e895347017a8d03bd-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@9AM St. Louis Blues vs. Nashville Predators [FanDuel SN South]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/nashvillepredators/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/18139163fba5fe3391abca3c475443af-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@9AM Dallas Stars vs. Minnesota Wild [FanDuel SN North]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/minnesotawild/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/842612eb0fe6c5dbed1ec3fb3d19d9c0-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@9AM Boston Bruins vs. Winnipeg Jets [ESPN+]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/winnipegjets/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6c8361d684bf709ad1a5adbed8e69d26-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@10AM Detroit Red Wings vs. Edmonton Oilers [ESPN+]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/edmontonoilers/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0387a163d569a229591f34af9e191863-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@10:30AM Florida Panthers vs. Colorado Avalanche [ESPN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/coloradoavalanche/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/43fad20ec2105bcad2b45f829a38d2d5-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live Stream(Dec 12,Fri)",@11AM Buffalo Sabres vs. Vancouver Canucks [ESPN+]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/vancouvercanucks/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 12,Fri),@9AM TNA: Impact [AXS TV]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
-
 
 
 
