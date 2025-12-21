@@ -5,89 +5,63 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/87c0047c26fb2eca97ac9d4831568807-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@6:00AM Houston Rockets vs. Denver Nuggets [NBA TV]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a4d3614fadd2ed84b7d57f2e2f1d0245-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@4:30AM Chicago Bulls vs. Atlanta Hawks [FANDUEL SN SE]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/denvernuggets/index.m3u8
+https://gg.poocloud.in/atlantahawks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/445ddbc146fbcaa7016673630014e363-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@8:00AM Dallas Mavericks vs. Philadelphia 76ers [NBC SPORTS PHIL]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/05a433b7161c6526ee5a75bfac49ecd2-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@7:00AM Toronto Raptors vs. Brooklyn Nets [YES]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/philadelphia76ers/index.m3u8
+https://gg.poocloud.in/brooklynnets/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/52da4d193a11ada97557ded7a453ed66-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@8:00AM Boston Celtics vs. Toronto Raptors [TSN]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/759008e3cbafe80a30982d5248061889-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@7:00AM Miami Heat vs. New York Knicks [MSG]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/torontoraptors/index.m3u8
+https://gg.poocloud.in/newyorkknicks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d5b9b82b78ee61d41fb6098d7fa224eb-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@8:00AM Indiana Pacers vs. New Orleans Pelicans [GCSEN]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f4303ad2833f38f1a29983da06aafcfa-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@8:00AM San Antonio Spurs vs. Washington Wizards [MNMT]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/neworleanspelicans/index.m3u8
+https://gg.poocloud.in/washingtonwizards/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8cd4a20d5b1a9d6218d55410058d3d0d-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@8:30AM Charlotte Hornets vs. Detroit Pistons [NBA TV]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/681e94758ec17a2fae5c6c1cbf6432db-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@8:00AM Milwaukee Bucks vs. Minnesota Timberwolves [FANDUEL SN NORTH EXTRA]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/detroitpistons/index.m3u8
+https://gg.poocloud.in/minnesotatimberwolves/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5deee7c9c4a3f6aee045b6833e286519-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@9:00AM Washington Wizards vs. Memphis Grizzlies [FANDUEL SN SE]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/memphisgrizzlies/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d78ebbc97cf45c1e49825cbc2a36dd78-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@9:30AM Phoenix Suns vs. Golden State Warriors [NBC SPORTS BA]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f491da5a7a28812142717b7b4ce5704a-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@10:30AM Orlando Magic vs. Utah Jazz [KJZZ-TV]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/utahjazz/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/036a56e706bdcc9e1c0d44aa420e8bbf-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@11:00AM Portland Trail Blazers vs. Sacramento Kings [NBC SPORTS CA]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/27829e97a4c2e97530dee5ac18aa6e77-thumbnail.jpg" group-title="🏀 NBA Live (Dec 22,Mon)",@11:00AM Houston Rockets vs. Sacramento Kings [NBC SPORTS CA]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/sacramentokings/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2d85f065b4ba7be5073d41e90ede4011-thumbnail.jpg" group-title="🏀 NBA Live (Dec 21,Sun)",@11:30AM Los Angeles Lakers vs. LA Clippers [NBA TV]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/laclippers/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@4:30AM Chicago Bulls vs. Atlanta Hawks
+https://cdn14.lilicdn.cfd/live/cdn14/playlist.m3u8?expires=1766335113&token=49ca8a2bbb95540d432519fe8d0f80d8988e7da530427c360624569a29dca40d
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@7:00AM Toronto Raptors vs. Brooklyn Nets
+https://cdn3.lilicdn.cfd/live/cdn3/playlist.m3u8?expires=1766335257&token=b5ec587b783dbba102efa960d455f881e7c48210ed47411d75b17ed2ad7250c3
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Denver Nuggets (Dec 20 - 05:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@6:00AM Houston Rockets vs Denver Nuggets
-https://cdn7.lilicdn.cfd/live/cdn7/playlist.m3u8?expires=1766259939&token=c8e16015ec93ebc3778dd1c0a83aca144f2c9524f78e13af45b19961b26465d1
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@7:00AM Miami Heat vs. New York Knicks
+https://cdn6.lilicdn.cfd/live/cdn6/playlist.m3u8?expires=1766335325&token=633516456fde80feb6d4f20a6bc59b8b55e7fc6ae32fdae91fbbd32fedbc6dec
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Philadelphia 76ers (Dec 20 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Dallas Mavericks vs Philadelphia 76ers
-https://cdn8.lilicdn.cfd/live/cdn8/playlist.m3u8?expires=1766259939&token=2b8ee05d0e099983bab58d2e9cbb619f5a9f90ce5dbc1578e838e895dbe1c1af
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM San Antonio Spurs vs. Washington Wizards
+https://cdn5.lilicdn.cfd/live/cdn5/playlist.m3u8?expires=1766335419&token=a507d547d35b9ebf01e544ddb6670d8ffc74f339ec838b84d0dc2e208acca27a
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs New Orleans Pelicans (Dec 20 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Indiana Pacers vs New Orleans Pelicans
-https://cdn10.lilicdn.cfd/live/cdn10/playlist.m3u8?expires=1766259939&token=010737d20797120f1ed54a352780a2bdf23f878c7f0658e93877078d911eeead
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Milwaukee Bucks vs. Minnesota Timberwolves
+https://cdn6.lilicdn.cfd/live/cdn6/playlist.m3u8?expires=1766335467&token=fe933f22f8df3d5727c3abae7f8f6ca25a0396df520e67859b1a0c86055c9a4d
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Golden State Warriors (Dec 20 - 08:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@9:30AM Phoenix Suns vs Golden State Warriors
-https://cdn13.lilicdn.cfd/live/cdn13/playlist.m3u8?expires=1766262424&token=b60fc20893d5a7cbab4181a469812724bfa58c3e0c26f76e1b6f11fbe1623adc
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs Utah Jazz (Dec 20 - 09:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@10:30AM Orlando Magic vs Utah Jazz
-https://cdn14.lilicdn.cfd/live/cdn14/playlist.m3u8?expires=1766259950&token=186195d0c24edb78827600d3b62923005396da64ced04d36bdeeb1a37d90d856
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Los Angeles Clippers (Dec 20 - 10:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:30AM Los Angeles Lakers vs Los Angeles Clippers
-https://cdn3.lilicdn.cfd/live/cdn3/playlist.m3u8?expires=1766259927&token=c0b5e9674cb63cf40e9266376144fd06a9374af445401a5047fc41f504a67687
-
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:00AM Houston Rockets vs. Sacramento Kings
+https://cdn7.lilicdn.cfd/live/cdn7/playlist.m3u8?expires=1766335536&token=8be468127ded9131c9192b0591133549d91e1b4df59aa9c1998b7ebd30ee2b80
 
 
 
@@ -103,162 +77,204 @@ https://gg.poocloud.in/darts/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7201fd10de0cbf3ff13e6543cf0d8ae5-thumbnail.jpg" group-title="🏈 American Football Live (Dec 21,Sun)",#11 Tulane vs. #6 Ole Miss (First Round) [TNT]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4f6f9b2fcef428719b4dc1ec89a0da50-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@2:00AM Buffalo Bills vs. Cleveland Browns [CBS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/tuln-miss/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/clevelandbrowns/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/27102a3353cda6be24a8a237c866a29d-thumbnail.jpg" group-title="🏈 American Football Live (Dec 21,Sun)",@6:00AM Philadelphia Eagles vs. Washington Commanders [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fb8711c589b503ad2c7d1790e1b177e9-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@2:00AM Los Angeles Chargers vs. Dallas Cowboys [FOX]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/washingtoncommanders/index.m3u8
+https://gg.poocloud.in/dallascowboys/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0f30030c22c80632ecbd59ce3e39bd24-thumbnail.jpg" group-title="🏈 American Football Live (Dec 21,Sun)",@8:30AM #12 JMU vs. #5 Oregon (First Round) [TNT]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ad20d8d02f58f69c34189626149475e0-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@2:00AM Kansas City Chiefs vs. Tennessee Titans [CBS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/jmu-ore/index.m3u8
+https://gg.poocloud.in/tennesseetitans/index.m3u8
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7a7d7c2b86841db3a491508aae5a628b-thumbnail.jpg" group-title="🏈 American Football Live (Dec 21,Sun)",@9:20AM Green Bay Packers vs. Chicago Bears [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ab5e194f199cc0f784a759449bf04bb8-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@2:00AM Cincinnati Bengals vs. Miami Dolphins [CBS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/chicagobears/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/miamidolphins/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a2f760feac244fca2ee1e86241819cbc-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",Juventus vs. AS Roma [SERIE A]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f30797f5aaef342277c2aa8f2f062ae5-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@2:00AM New York Jets vs. New Orleans Saints [CBS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_juv/index.m3u8
+https://gg.poocloud.in/neworleanssaints/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0022e6467a0f67267b05ea3d113a1dbd-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",Real Madrid vs. Sevilla [LaLiga]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fbd95960958ce6620baacdf436e1997a-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@2:00AM Minnesota Vikings vs. New York Giants [FOX]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_rma/index.m3u8
+https://gg.poocloud.in/newyorkgiants/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a8810d32c32583b47749b01f80ee0c39-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",Everton vs. Arsenal [Premier League]
-https://gg.poocloud.in/pl_eve/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/64c21263e4525f1ee3c096205ad02eea-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",Leeds United vs. Crystal Palace [Premier League]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0cb28b14ef6c9f5c864635115201ddd5-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@2:00AM Tampa Bay Buccaneers vs. Carolina Panthers [FOX]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/pl_lee/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/carolinapanthers/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e1f0ac73e9dab5f42178e5d5b3239c46-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",@7:30PM Cagliari vs. Pisa [SERIE A]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bba0afadffddc0def3cfbe54fa09e5f1-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@5:05AM Jacksonville Jaguars vs. Denver Broncos [FOX]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_cag/index.m3u8
+https://gg.poocloud.in/denverbroncos/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ab496b2290be2a6eeff252d4b0bc0126-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",@9:00PM Girona vs. Atlético Madrid [LaLiga]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/33f9727af3dbfe9f7d9d2fd584033970-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@5:05AM Atlanta Falcons vs. Arizona Cardinals [FOX]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_gir/index.m3u8
+https://gg.poocloud.in/arizonacardinals/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/98c7c3e5888484f687c10a1ca9776d90-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",@10:00PM Sassuolo vs. Torino [SERIE A]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0423fd7e2a61c7e6725b31ec73174b30-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@5:25AM Pittsburgh Steelers vs. Detroit Lions [CBS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_sas/index.m3u8
+https://gg.poocloud.in/detroitlions/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/57ca2f0ea99cc01cbaf4c2906fe43998-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",@10:30PM Mainz vs. St. Pauli [Bundesliga]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ddd5ef09f581a863334fd20534c0a965-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@5:25AM Las Vegas Raiders vs. Houston Texans [CBS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bl_m05/index.m3u8
+https://gg.poocloud.in/houstontexans/index.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/55d075300221429ae090c1c3ae1e0d4c-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 21,Sun)",@11:15PM Villarreal vs. Barcelona [LaLiga]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83b095f8d210cbe091657a71b43ead52-thumbnail.jpg" group-title="🏈 American Football Live (Dec 22,Mon)",@9:20AM New England Patriots vs. Baltimore Ravens [NBC]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_vil/index.m3u8
+https://gg.poocloud.in/baltimoreravens/index.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2f375d2dba2fdf6ff1d20090f50b6c72-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",Chicago Blackhawks vs. Ottawa Senators [ESPN+]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8c3f7f38e44f0944457f2e4c0c948e14-thumbnail.jpg" group-title="🏈 American Football Live (Dec 23,Tue)",@9:15AM San Francisco 49ers vs. Indianapolis Colts[ESPN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ottawasenators/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/indianapoliscolts/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b57b7020dc462e466261c7bd405b1853-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",Edmonton Oilers vs. Minnesota Wild [FANDUEL SN NORTH]
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a2f760feac244fca2ee1e86241819cbc-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 22,Mon)",@12:30AM 1. FC Heidenheim 1846 vs. Bayern Munich [Bundesliga]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/minnesotawild/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/bl_hdh/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b89a2f2245d5d0c00261ce6c139b33da-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@6:00AM New York Islanders vs. Buffalo Sabres [MSGB]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0022e6467a0f67267b05ea3d113a1dbd-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 22,Mon)",@12:30AM Aston Villa vs. Manchester United [Premier League]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/buffalosabres/index.m3u8
+https://gg.poocloud.in/pl_avl/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f79fe7dcec912e93d8eef1088e9de5f5-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@7:00AM St. Louis Blues vs. Florida Panthers [Scripps Sports]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a8810d32c32583b47749b01f80ee0c39-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 22,Mon)",@1:00AM Fiorentina vs. Udinese [SERIE A]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/floridapanthers/index.m3u8
+https://gg.poocloud.in/sa_fio/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5fdd4edcaf69e0a9065625c7cb9dacf0-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@8:00AM Vancouver Canucks vs. Boston Bruins [NESN]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/64c21263e4525f1ee3c096205ad02eea-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 22,Mon)",@1:00AM Elche vs. Rayo Vallecano [LaLiga]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/ll_elc/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e1f0ac73e9dab5f42178e5d5b3239c46-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 22,Mon)",@3:45AM Genoa vs. Atalanta [SERIE A]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/sa_gen/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ab496b2290be2a6eeff252d4b0bc0126-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 22,Mon)",@3:45AM Real Betis vs. Getafe [LaLiga]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/ll_bet/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/57f995fcead6b2148836731474875e9d-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 23,Tue)",@3:45AM Athletic Club vs. Espanyol [LaLiga]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/ll_ath/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 23,Tue)",@3:45AM Fulham vs. Nottingham Forest[Premier League]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/pl_ful/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2de80b25ba1edf89c36ee425745bb998-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@2:00AM Washington Capitals vs. Detroit Red Wings [FANDUEL SN DET]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/detroitredwings/index.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e8fc6191aa93b57e16445798916999d2-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@7:00AM Colorado Avalanche vs. Minnesota Wild [FANDUEL SN NORTH]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/minnesotawild/index.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e4cbdb5057f25f6597bae8441ce27815-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@8:00AM Ottawa Senators vs. Boston Bruins [NESN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/bostonbruins/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/66c45a6918c61b9cd5cb7241e3ed8d13-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@8:00AM Pittsburgh Penguins vs. Montreal Canadiens [ESPN+]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/eef29af3ea513ce73f449c1e02b902ae-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@8:00AM Buffalo Sabres vs. New Jersey Devils [MSGSN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/montrealcanadiens/index.m3u8
+https://gg.poocloud.in/newjerseydevils/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7296ecee93988dba6549ed5397ed21c4-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@8:00AM Carolina Hurricanes vs. Tampa Bay Lightning [THE SPOT-MTN]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6c1dc75889c0c83388d621de2b24d4fa-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@8:00AM Montreal Canadiens vs. Pittsburgh Penguins [ESPN+]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/tampabaylightning/index.m3u8
+https://gg.poocloud.in/pittsburghpenguins/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c13feaa57711f1fac5f2f83bc66a2f02-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@8:00AM Toronto Maple Leafs vs. Nashville Predators [FANDUEL SN NORTH]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/170b6d6613673c63644255adf855e075-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@8:00AM New York Rangers vs. Nashville Predators [FANDUEL SN SOUTH]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/nashvillepredators/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c71479dfb65ca1df822a15d2643ffadf-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@11:00AM Vegas Golden Knights vs. Calgary Flames [ESPN+]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f92443fe4041e61951f88e8e139ed1f5-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@8:00AM Toronto Maple Leafs vs. Dallas Stars [VICTORY+]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/calgaryflames/index.m3u8
+https://gg.poocloud.in/dallasstars/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fd2b0150fda51d7e5f284a3bca10898a-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@11:00AM Columbus Blue Jackets vs. Anaheim Ducks [KCOP]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/725cd8cdb1253d26ba46a5560d2a6df3-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@8:00AM Winnipeg Jets vs. Utah Mammoth [UTAH 16]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/anaheimducks/index.m3u8
+https://gg.poocloud.in/utahmammoth/index.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9e8c54b444ece381799816d60db495b9-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 21,Sun)",@11:00AM Seattle Kraken vs. San Jose Sharks [NBC SPORTS BA]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d4d004c8cced1ade4bf3f4a7cce847c7-thumbnail.jpg" group-title="🏒 ICE HOCKEY Live (Dec 22,Mon)",@9:00AM Vegas Golden Knights vs. Edmonton Oilers [ESPN+]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sanjosesharks/index.m3u8
+https://gg.poocloud.in/edmontonoilers/index.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="Misc.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="🏏 Cricket Live Stream (Dec 21,Sun)",@7:30AM Australia vs. England [TNT SPORTS]
+#EXTINF:-1 tvg-id="Misc.Dummy.us|UPCOMING" tvg-logo="https://api.ppv.to/assets/thumb/fb2ea08127fe886a1b4740cd8de2a591-thumbnail.jpg" group-title="🏏 Cricket Live Stream (Dec 22,Mon)",@7:30AM Australia vs. England [TNT SPORTS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
@@ -269,7 +285,7 @@ https://gg.poocloud.in/ashes/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" group-title="🥋🤼Combat SportsLive Event(Dec 21,SUN)",@3:00AM Misfits Mania: Andrew Tate vs. Chase DeMoor [RUMBLE]
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" group-title="🥋🤼Combat SportsLive Event(Dec 22,Mon)",@3:00AM Misfits Mania: Andrew Tate vs. Chase DeMoor [RUMBLE]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
@@ -280,11 +296,12 @@ https://direct.poocloud.in/misfits.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 21,Sun)",@9:00AM WWE: Friday Night Smackdown [USA NETWORK]
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 22,Mon)",@9:00AM WWE: Friday Night Smackdown [USA NETWORK]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
 
 
 
