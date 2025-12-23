@@ -1177,6 +1177,39 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJKaXY5MCIsImV4cCI6MTc2NjY5OTQ2MX0.Eiq_LQMYhOXPRMI9TtMIBqswl93MjN1oAgqdmp96-1k
 
 
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"94bc19ad9cb04a7e6871e650a7f6529c":"83e7dc469eb303c4237db6750225f6be"}
+#EXTINF:-1 group-title="World TV" tvg-id="Amazon.US.KoreanBlockbusters" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/korean_blockbusters._SL170_FMpng_.png",Korean Blockbuster
+https://aba2opzaaaaaaaambptdxcmdygr3l.9be0b55c226b4023a71eca813144822a.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ol6pl6uagx/out/v1/92163be177b542c59d3b804d8c9dbee2/cenc.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-name="From Asia With Love" tvg-logo="https://i.imgur.com/ZXXRF8bl.png",From Asia With Love
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bc19ad9cb04a7e6871e650a7f6529c:83e7dc469eb303c4237db6750225f6be
+http://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ol6pl6uagx/out/v1/92163be177b542c59d3b804d8c9dbee2/cenc.mpd
+
+#EXTINF:-1 tvg-id="AXN" group-title="World TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" ch-number="701",701 AXN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2303
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.pinimg.com/736x/68/62/cd/6862cd5ce275ab4faaa8630f25f89860.jpg",One
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, lke Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png",tvN Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -22021,36 +22054,6 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/137263.mkv
 
 
 
-
-#EXTINF:-1 tvg-id="5002:0:19:112F8:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/oumprkO9bThExP8NwxBIBnvBu2v1-200x300.jpg" 
-group-title="2025 MOVIES", The Life of Chuck (2025)
-http://s1.gmtcloud.site/video/moviess/TheLifeofChuck2024.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:112E7:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/svXVRoRSu6zzFtCzkRsjZS7Lqpd1-200x300.jpg" group-title="2025 MOVIES",Nobody 2 (2025)
-http://s1.gmtcloud.site/video/moviess/Nobody.2.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:10CB0:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/9qQjd8Af0G7UmteRHruihS1lBZy1-200x300.jpg" group-title="2025 MOVIES",The Naked Gun  (2025)
-http://s1.gmtcloud.site/video/moviess/The.Naked.Gun.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:112CF:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/waQoVqRSbttoWQYeWBtR8mAJfvZ1-200x300.jpg" group-title="2025 MOVIES",Bambi: The Reckoning (2025)
-http://s1.gmtcloud.site/video/moviess/BambiTheReckoning.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:10D12:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2024/08/cdPCTAay6GR32vb2snhIOhozDCd1-200x300.jpg" group-title="2025 MOVIES",The Home (2025)
-http://s1.gmtcloud.site/video/moviess/The.Home.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:1122B:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/pp6Rg9Ls2g7EaLhJriHx1gI99h1-200x300.jpg" group-title="2025 MOVIES",Love Untangled (2025)
-http://s1.gmtcloud.site/video/moviess/Love.Untangled.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111CE:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/jSG2mg1998DUAam6X9EA6SeJmqD1-200x300.jpg" group-title="2025 MOVIES", A Line of Fire (2025)
-http://s1.gmtcloud.site/video/moviess/A%20Line%20Of%20Fire%202025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111C7:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/uoBrXKe1qE2wFXOw71GuiIXETYV1-200x300.jpg" group-title="2025 MOVIES", She Rides Shotgun (2025)
-http://s1.gmtcloud.site/video/moviess/She.Rides.Shotgun.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111C0:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/jukxj88V6GmpkJWn6PjiKodxa7A1-200x300.jpg" group-title="2025 MOVIES", Werewolf Game (2025)
-http://s1.gmtcloud.site/video/moviess/Werewolf.Game.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:111BC:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/d3T9jjdLjnhMzuFvmWImlVKiIrv1-200x300.jpg" group-title="2025 MOVIES", Fantasy Football Ruined Our Lives (2025)
-http://s1.gmtcloud.site/video/moviess/Fantasy.Football.Ruined.Our.Lives.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:1110E:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/8FP2ObEGIiQYQCf83gL4ZVzwZF81-200x300.jpg" group-title="2025 MOVIES",I Know What You Did Last Summer (2025)
-http://s1.gmtcloud.site/video/moviess/I.Know.What.You.Did.Last.Summer.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:1116F:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/qiZqJaq7OQ5QGV4F71JvQcR8p3T1-200x300.jpg" group-title="2025 MOVIES", The Thursday Murder Club (2025)
-http://s1.gmtcloud.site/video/moviess/The%20Thursday%20Murder%20Club%202025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:11103:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/8cAXLYDmn0POhjqzTHeT6rJMUVc1-200x300.jpg" group-title="2025 MOVIES", El secreto del orfebre (2025)
-http://s1.gmtcloud.site/video/moviess/The.Goldsmiths.Secret.2025.mp4?id=0
-#EXTINF:-1 tvg-id="5002:0:19:110E6:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/m3qJWpGzuimIjNnWvibT7L5R1Dd1-200x300.jpg" group-title="2025 MOVIES", Red Sonja (2025)
-http://s1.gmtcloud.site/video/moviess/RedSonja.mp4?id=0
 
 
 
