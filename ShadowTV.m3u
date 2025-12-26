@@ -5,56 +5,59 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ea292e3ffdc5d047125c791245056e00-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/26(For SAMSUNG)",@1:00AM Cleveland Cavaliers vs. New York Knicks [ABC]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/687c9e3ca6cd83ff5819cf8aa42c1daf-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@8:00AM Miami Heat vs. Atlanta Hawks [FANDUEL SN SUN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/newyorkknicks/index.m3u8
+https://gg.poocloud.in/atlantahawks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d03a1547f0924a87418143df7354dbdf-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/26(For SAMSUNG)",@3:30AM San Antonio Spurs vs. Oklahoma City Thunder [ABC]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d03a1547f0924a87418143df7354dbdf-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@8:00AM Charlotte Hornets vs. Orlando Magic [FANDUEL SN FL]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/oklahomacitythunder/index.m3u8
+https://gg.poocloud.in/orlandomagic/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c662fce981315be4e1d45ea6ce6e7472-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/26(For SAMSUNG)",@6:00AM Dallas Mavericks vs. Golden State Warriors [ABC]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9df9472d2d239f78e53941d44b128edd-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@8:00AM Toronto Raptors vs. Washington Wizards [MNMT]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
+https://gg.poocloud.in/washingtonwizards/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bc8a0205874312de7bb7281ddeeceb7a-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/26(For SAMSUNG)",@9:00AM Houston Rockets vs. Los Angeles Lakers [ABC]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/311640a33f2404f4252aad3ac201afb6-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@8:00AM Boston Celtics vs. Indiana Pacers [NBC SPORTS BO]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/losangeleslakers/index.m3u8
+https://gg.poocloud.in/indianapacers/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/70e160085451e4a30248126cf7172a72-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/26(For SAMSUNG)",@11:30AM Minnesota Timberwolves vs. Denver Nuggets [ABC]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cec61e88a05c961e59d07258f3a6b629-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@8:30AM Philadelphia 76ers vs. Chicago Bulls [PRIME VIDEO]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/denvernuggets/index.m3u8
+https://gg.poocloud.in/chicagobulls/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2573cf13099e2f0479364a6eb480c1b0-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@9:00AM Milwaukee Bucks vs. Memphis Grizzlies [FANDUEL SN SE]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e66e12d17d7f304bd8f91436a74c8df-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@9:00AM Phoenix Suns vs. New Orleans Pelicans [GCSEN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/neworleanspelicans/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4c3d9df36efdb72aac3b7796c23d9f00-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@10:30AM Detroit Pistons vs. Utah Jazz [KJZZ-TV]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/utahjazz/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 Daily NBA Live 12/26(For DEVANT)",@1:00AM Cleveland Cavaliers vs. New York Knicks 
-https://cdn3.stfile.xyz/live/cdn3/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 Daily NBA Live 12/26(For DEVANT)",@3:30AM San Antonio Spurs vs. Oklahoma City Thunder 
-https://cdn4.stfile.xyz/live/cdn4/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 Daily NBA Live 12/26(For DEVANT)",@6:00AM Dallas Mavericks vs. Golden State Warriors 
-https://cdn5.stfile.xyz/live/cdn5/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 Daily NBA Live 12/26(For DEVANT)",@9:00AM Houston Rockets vs. Los Angeles Lakers 
-https://cdn6.stfile.xyz/live/cdn6/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 Daily NBA Live 12/26(For DEVANT)",@11:30AM Minnesota Timberwolves vs. Denver Nuggets 
-https://cdn7.stfile.xyz/live/cdn7/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/19585c68b2f1eb8571d7cbe2f1cdb644-thumbnail.jpg" group-title="🏀 Daily NBA Live 12/27(For SAMSUNG)",@11:00AM LA Clippers vs. Portland Trail Blazers [PRIME VIDEO]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 
 
 
@@ -21826,7 +21829,6 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/137262.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stepmom from Hell (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQS5xvThUb3PWN1PHTDqY0QPiJo.jpg" group-title="DISNEY | Drama",Stepmom from Hell (2024)
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/137263.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boarding School Murders (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVgjhPjyYdeMxo6pea82uFwpa
-
 
 
 
