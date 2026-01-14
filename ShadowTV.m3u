@@ -4,16 +4,16 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f0e46ad3b40b41da62312ecccf87bf27-thumbnail.jpg" group-title="🏀 NBA Live (Source 1)",8AM Toronto Raptors vs. Indiana Pacers
-https://e22cd317d72ce9c3afea3614629c9397.livehwc4.com/nami.videobss.com/live/hd-en-2-3866099.m3u8
+https://strm.poocloud.in/secure/BSkaussFGbZQhsdfbkQnOzbqMhfcMTme/1768428000/1768452480/indianapacers.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg" group-title="🏀 NBA Live (Source 1)",8AM Cleveland Cavaliers vs. Philadelphia 76ers
-https://e22cd317d72ce9c3afea3614629c9397.livehwc4.com/nami.videobss.com/live/hd-en-2-3867093.m3u8
+https://strm.poocloud.in/secure/jckPvxvZWAHjXdwFrggjSlvScSmTerpy/1768428000/1768452480/philadelphia76ers.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/77c6db38f286024b4fb20549e242363e-thumbnail.jpg" group-title="🏀 NBA Live (Source 1)",9AM Utah Jazz vs. Chicago Bulls
-https://gg.poocloud.in/chicagobulls/index.m3u8
+https://strm.poocloud.in/secure/uhEFBFJSrlFarNfHiJFZiRueagTtxEzi/1768431600/1768456080/chicagobulls.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6d031e6c10d1238c45f6fa8b3544e66b-thumbnail.jpg" group-title="🏀 NBA Live (Source 1)",9AM Brooklyn Nets vs. New Orleans Pelicans
-https://gg.poocloud.in/neworleanspelicans/index.m3u8
+https://strm.poocloud.in/secure/vmUAoMoOkqTxhxupFAzbNueHGrCJJVgC/1768431600/1768456080/neworleanspelicans.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9c3a34b270c150693f95d18682c9a392-thumbnail.jpg" group-title="🏀 NBA Live (Source 1)",10:30AM Denver Nuggets vs. Dallas Mavericks
 https://gg.poocloud.in/dallasmavericks/index.m3u8
@@ -23,6 +23,9 @@ https://gg.poocloud.in/sacramentokings/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a6f705b408f454ed240eb30258508997-thumbnail.jpg" group-title="🏀 NBA Live (Source 1)",11:30AM Washington Wizards vs. Los Angeles Clippers
 https://gg.poocloud.in/laclippers/index.m3u8
+
+
+
 
 
 
