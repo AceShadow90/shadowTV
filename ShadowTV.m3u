@@ -4,25 +4,51 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fa6e5f58424bf40ecf6e3a1b7fc51dc8-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8AM New Orleans Pelicans vs. Indiana Pacers
-https://cdn1.hkfile.cfd/live/cdn1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8AM Cleveland Cavaliers vs. Philadelphia 76ers
-https://cdn2.hkfile.cfd/live/cdn2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9ed69e60a903fcabd527968fbf72a2e8-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8:30AM Chicago Bulls vs. Brooklyn Nets
-https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5db6335b70f97d9fcaf9bc0d7027192e-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8:30AM LA Clippers vs. Toronto Raptors
-https://cdn4.hkfile.cfd/live/cdn4/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a9966b2b8bc7a4e41135c579552b1c85-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",10:30AM Minnesota Timberwolves vs. Houston Rockets
-https://cdn5.hkfile.cfd/live/cdn5/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a44de545b635dd225a2d31ae4f204583-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",11AM Washington Wizards vs. Sacramento Kings
-https://cdn6.hkfile.cfd/live/cdn6/chunks.m3u8
-
-
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Dallas Mavericks - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Dallas-Mavericks-Logo.svg" group-title="NBAWebcast - Live Games",Utah Jazz @ Dallas Mavericks - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/utah-jazz-vs-dallas-mavericks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Atlanta Hawks - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Atlanta-Hawks-Logo.svg" group-title="NBAWebcast - Live Games",Boston Celtics @ Atlanta Hawks - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/boston-celtics-vs-atlanta-hawks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ Detroit Pistons - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Detroit-Pistons-Logo.svg" group-title="NBAWebcast - Live Games",Indiana Pacers @ Detroit Pistons - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/indiana-pacers-vs-detroit-pistons720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ New York Knicks - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-York-Knicks-Logo.svg" group-title="NBAWebcast - Live Games",Phoenix Suns @ New York Knicks - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/phoenix-suns-vs-new-york-knicks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Miami Heat - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Miami-Heat-Logo.svg" group-title="NBAWebcast - Live Games",Oklahoma City Thunder @ Miami Heat - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/oklahoma-city-thunder-vs-miami-heat720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ San Antonio Spurs - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/San-Antonio-Spurs-Logo.svg" group-title="NBAWebcast - Live Games",Minnesota Timberwolves @ San Antonio Spurs - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/minnesota-timberwolves-vs-san-antonio-spurs720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Golden State Warriors - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Golden-State-Warriors-Logo.svg" group-title="NBAWebcast - Live Games",Charlotte Hornets @ Golden State Warriors - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/charlotte-hornets-vs-golden-state-warriors720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Denver Nuggets - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Denver-Nuggets-Logo.svg" group-title="NBAWebcast - Live Games",Washington Wizards @ Denver Nuggets - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/washington-wizards-vs-denver-nuggets720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Portland Trail Blazers - January 17 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="NBAWebcast - Live Games",Los Angeles Lakers @ Portland Trail Blazers - January 17 2026
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/los-angeles-lakers-vs-portland-trail-blazers720p/index.m3u8
 
 
 
