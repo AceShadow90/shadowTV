@@ -5,25 +5,25 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/49795b41354266abcd87a18d570d466a-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Cavaliers vs. Hornets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/49795b41354266abcd87a18d570d466a-thumbnail.jpg" group-title="NBA Live (Source 2)",8AM Cavaliers vs. Hornets
 https://cdn1.fkfiles.cfd/live/cdn1/playlist.m3u8?expires=1769040050&token=b767e68575f7e876e1ef791afefcd8addf00603f405b616caf943f6570030089
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/56e4c5582a9776a9358f676667ab757a-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Pacers vs. Celtics
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/56e4c5582a9776a9358f676667ab757a-thumbnail.jpg" group-title="NBA Live (Source 2)",8:30AM Pacers vs. Celtics
 https://cdn2.fkfiles.cfd/live/cdn2/playlist.m3u8?expires=1769040676&token=a33bf1e8c9cd764e6ccb667768a85f0c99047941e0c4c683fc666fbea3315476
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9842b908b19fc7be8bf8cd6d8020c996-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Nets vs. Knicks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9842b908b19fc7be8bf8cd6d8020c996-thumbnail.jpg" group-title="NBA Live (Source 2)",8:30AM Nets vs. Knicks
 https://cdn3.fkfiles.cfd/live/cdn3/playlist.m3u8?expires=1769040237&token=9af77e0b7df2a839436f15d3ca954fc04bbd97469714d6b993f6699a5577deb7
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ddaa77d31b96ff68fc032385302c3915-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Hawks vs. Grizzlies
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ddaa77d31b96ff68fc032385302c3915-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Hawks vs. Grizzlies
 https://cdn4.fkfiles.cfd/live/cdn4/playlist.m3u8?expires=1769043484&token=e70244cb3fc458f98544d80f95e4acddb55aaa14f0b12f8d240c41ae11a0ef05
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/da8190ce3b1b24092e67d63696a3349b-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Pistons vs. Pelicans
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/da8190ce3b1b24092e67d63696a3349b-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Pistons vs. Pelicans
 https://cdn5.fkfiles.cfd/live/cdn5/playlist.m3u8?expires=1769042907&token=f5be77e1e81bf58ff3b456f760f5601008dae7507751719c2d6d36aacc2ad28a
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0bffc5e7f3d7a6a633aa5191c4a92681-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Thunder vs. Bucks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0bffc5e7f3d7a6a633aa5191c4a92681-thumbnail.jpg" group-title="NBA Live (Source 2)",10:30AM Thunder vs. Bucks
 https://cdn6.fkfiles.cfd/live/cdn6/playlist.m3u8?expires=1769045168&token=9a67d8da6f77ff51357cbb3a750ae106dbe81358beab8508dba447dc24cf46ad
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a1e14c7316b713035503bbe1deed1d6c-thumbnail.jpg" group-title="NBA Live (Source 1)",11AM Raptors vs. Kings
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a1e14c7316b713035503bbe1deed1d6c-thumbnail.jpg" group-title="NBA Live (Source 2)",11AM Raptors vs. Kings
 https://cdn7.fkfiles.cfd/live/cdn7/playlist.m3u8?expires=1769044171&token=084c2ef6fbb3dfc74b06921665aa5d663829eb84c029611a1929b0736f134e29
 
 
@@ -67,6 +67,43 @@ https://indiasmellsverybad.xyz/live/oklahoma-city-thunder-vs-milwaukee-bucks720p
 https://indiasmellsverybad.xyz/live/toronto-raptors-vs-sacramento-kings720p/index.m3u8
 
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Cleveland-Cavaliers-Logo.svg" group-title="NBA Live (Source 3)",8AM Cleveland Cavaliers @ Charlotte Hornets (NBA)
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+https://indiasmellsverybad.xyz/live/cleveland-cavaliers-vs-charlotte-hornets1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Indiana-Pacers-Logo.svg" group-title="NBA Live (Source 3)",8:30AM Indiana Pacers @ Boston Celtics (NBA)
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+https://indiasmellsverybad.xyz/live/indiana-pacers-vs-boston-celtics1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Brooklyn-Nets-Logo.svg" group-title="NBA Live (Source 3)",8:30AM Brooklyn Nets @ New York Knicks (NBA)
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+https://indiasmellsverybad.xyz/live/brooklyn-nets-vs-new-york-knicks1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Atlanta-Hawks-Logo.svg" group-title="NBA Live (Source 3)",9AM Atlanta Hawks @ Memphis Grizzlies (NBA)
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+https://indiasmellsverybad.xyz/live/atlanta-hawks-vs-memphis-grizzlies1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Detroit-Pistons-Logo.svg" group-title="NBA Live (Source 3)",9AM Detroit Pistons @ New Orleans Pelicans (NBA)
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+https://indiasmellsverybad.xyz/live/detroit-pistons-vs-new-orleans-pelicans1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Oklahoma-City-Thunder-Logo.svg" group-title="NBA Live (Source 3)",10:30AM Oklahoma City Thunder @ Milwaukee Bucks (NBA)
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+https://indiasmellsverybad.xyz/live/oklahoma-city-thunder-vs-milwaukee-bucks1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Toronto-Raptors-Logo.svg" group-title="NBA Live (Source 3)",11AM Toronto Raptors @ Sacramento Kings (NBA)
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+https://indiasmellsverybad.xyz/live/toronto-raptors-vs-sacramento-kings1080p/index.m3u8
 
 
 
@@ -9076,7 +9113,6 @@ https://drive.usercontent.google.com/download?id=1uIliZPkhcmjuLl2-HHZlZ55OeuYE-Q
 https://drive.usercontent.google.com/download?id=1eADcgpik_L2lHCj0DAcjAmOyeIMJGEiI&export=download&authuser=N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TAYONG DALAWA - Rey Valera
 https://drive.usercontent.google.com/download?id=1RI_UpjwCMsJFtqN0VvCONjihG1ag0W-X&export=download&authuser=N
-
 
 
 
