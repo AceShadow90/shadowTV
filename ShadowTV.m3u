@@ -6,7 +6,7 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a3d5b47344fbd91bc1dce0aee1e87e3-thumbnail.jpg" group-title="NBA Live Jan28(S1)",8AM Trail Blazers vs. Wizards
-https://cdn1.ckfiles.cfd/live/cdn1/playlist.m3u8?expires=1769553239&token=67786d9150a7e0ee17c274342cb4dc3f94a8ab4b8fa427c5ff44ce60f7d30d28
+https://cdn1.ckfiles.cfd/live/cdn1/playlist.m3u8?expires=1769557495&token=f1449fb9450808d07eef0b8514ce20de2b768ccbe2d93491240752ba647510ad
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2deac4851c3f7ad78926f6465cd5e826-thumbnail.jpg" group-title="NBA Live Jan28(S1)",8:30AM Kings vs. Knicks
 https://cdn2.ckfiles.cfd/live/cdn2/playlist.m3u8?expires=1769555399&token=1e1e915fe1855187d71272d80587cda40dd7d41fbe70d861b4270636cc691f20
@@ -36,47 +36,48 @@ https://cdn7.ckfiles.cfd/live/cdn7/playlist.m3u8?expires=1769555481&token=f1460d
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="NBA Live Jan28(S2)",Portland Trail Blazers @ Washington Wizards (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="NBA Live Jan28(S2)",8AM Portland Trail Blazers @ Washington Wizards (NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://indiasmellsverybad.xyz/live/portland-trail-blazers-vs-washington-wizards720p/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Sacramento-Kings-Logo.svg" group-title="NBA Live Jan28(S2)",Sacramento Kings @ New York Knicks (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Sacramento-Kings-Logo.svg" group-title="NBA Live Jan28(S2)",8:30AM Sacramento Kings @ New York Knicks (NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://indiasmellsverybad.xyz/live/sacramento-kings-vs-new-york-knicks720p/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Milwaukee-Bucks-Logo.svg" group-title="NBA Live Jan28(S2)",Milwaukee Bucks @ Philadelphia 76ers (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Milwaukee-Bucks-Logo.svg" group-title="NBA Live Jan28(S2)",9AM Milwaukee Bucks @ Philadelphia 76ers (NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://indiasmellsverybad.xyz/live/milwaukee-bucks-vs-philadelphia-76ers720p/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-Orleans-Pelicans-Logo.svg" group-title="NBA Live Jan28(S2)",New Orleans Pelicans @ Oklahoma City Thunder (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-Orleans-Pelicans-Logo.svg" group-title="NBA Live Jan28(S2)",9AM New Orleans Pelicans @ Oklahoma City Thunder (NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://indiasmellsverybad.xyz/live/new-orleans-pelicans-vs-oklahoma-city-thunder720p/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Detroit-Pistons-Logo.svg" group-title="NBA Live Jan28(S2)",Detroit Pistons @ Denver Nuggets (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Detroit-Pistons-Logo.svg" group-title="NBA Live Jan28(S2)",10AM Detroit Pistons @ Denver Nuggets (NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://indiasmellsverybad.xyz/live/detroit-pistons-vs-denver-nuggets720p/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Brooklyn-Nets-Logo.svg" group-title="NBA Live Jan28(S2)",Brooklyn Nets @ Phoenix Suns (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Brooklyn-Nets-Logo.svg" group-title="NBA Live Jan28(S2)",10AM Brooklyn Nets @ Phoenix Suns (NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://indiasmellsverybad.xyz/live/brooklyn-nets-vs-phoenix-suns720p/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/LA-Clippers-Logo.svg" group-title="NBA Live Jan28(S2)",LA Clippers @ Utah Jazz (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/LA-Clippers-Logo.svg" group-title="NBA Live Jan28(S2)",11AM LA Clippers @ Utah Jazz (NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://indiasmellsverybad.xyz/live/la-clippers-vs-utah-jazz720p/index.m3u8
+
 
 
 
@@ -9088,8 +9089,6 @@ https://drive.usercontent.google.com/download?id=1uIliZPkhcmjuLl2-HHZlZ55OeuYE-Q
 https://drive.usercontent.google.com/download?id=1eADcgpik_L2lHCj0DAcjAmOyeIMJGEiI&export=download&authuser=N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="KARAOKE COLLECTION",TAYONG DALAWA - Rey Valera
 https://drive.usercontent.google.com/download?id=1RI_UpjwCMsJFtqN0VvCONjihG1ag0W-X&export=download&authuser=N
-
-
 
 
 
