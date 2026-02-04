@@ -5,35 +5,27 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/afa0341d484be555f5cf42f63264f258-thumbnail.jpg" group-title="NBA Live Feb4(S1)",8AM Nuggets vs Pistons
-https://cdn4.xkfiles.cfd/live/cdn4/playlist.m3u8?expires=1770156259&token=42a23db2be2528bab15c9bc6f56eba33bc6045af0bd3c28be9943f04f17e3aea
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/16e50295ba3a039011a6b87b6c0a2ba8-thumbnail.jpg" group-title="NBA Live Feb5(S1)",8AM Nuggets vs Knicks
+https://cdn1.xkfiles.cfd/live/cdn1/playlist.m3u8?expires=1770245100&token=4a9cf9cec5c337b267cde6390be7d5a2fcc1036ad687cac02e6eada06fbbb728
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a74ca6bd2e3aa4921ba8b6abca1dd7b3-thumbnail.jpg" group-title="NBA Live Feb4(S1)",8AM Jazz vs Pacers
-https://cdn3.xkfiles.cfd/live/cdn3/playlist.m3u8?expires=1770156309&token=9140c6948a99106aa5dd7b25ef05bab33aba09bb1dfcc34393272f774a342744
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9ee94afedd588393cc4746f1d0578a4d-thumbnail.jpg" group-title="NBA Live Feb5(S1)",8:30AM Timberwolves vs Raptors
+https://cdn2.xkfiles.cfd/live/cdn2/playlist.m3u8?expires=1770245117&token=01629a052ac453bc17c415e188130e484bfb71ec011f9d1effce6f3400406189
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/992d00bd7a3eab6c02ec83d6c1e558b9-thumbnail.jpg" group-title="NBA Live Feb4(S1)",8AM Knicks vs Wizards
-https://cdn2.xkfiles.cfd/live/cdn2/playlist.m3u8?expires=1770156361&token=9b304813a9cb2e0f8c9388daeaf3c6b43d83b8b9f714289f8739a55a5cccf209
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8a61de0c12a59afa2d5aa47fdb8d9a02-thumbnail.jpg" group-title="NBA Live Feb5(S1)",9AM Celtics vs Rockets
+https://cdn4.xkfiles.cfd/live/cdn4/playlist.m3u8?expires=1770245130&token=22328d89390ce225a87a1be4696b6015af8972c1a2a0b952b1ebd2acb6b0e653
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/807583e9254fcb8e70ca4e259f976f2d-thumbnail.jpg" group-title="NBA Live Feb4(S1)",8:30AM Lakers vs Nets
-https://cdn6.xkfiles.cfd/live/cdn6/playlist.m3u8?expires=1770156411&token=e00c2d72687020c706d74545ab284784f473bf2ef9d7db5d8cc321b8dfa5bd99
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83480e291d1e095132d36a40e0e20f16-thumbnail.jpg" group-title="NBA Live Feb5(S1)",9AM Pelicans vs Bucks
+https://cdn3.xkfiles.cfd/live/cdn3/playlist.m3u8?expires=1770245144&token=c4ed39f849cfbb5784304096f0f320ee372381b62291da950577e56ebe25b63d
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c4490478548e3e16ff8e8dfa5ba4ff51-thumbnail.jpg" group-title="NBA Live Feb4(S1)",8:30AM Hawks vs Heat
-https://cdn5.xkfiles.cfd/live/cdn5/playlist.m3u8?expires=1770156454&token=ab4df8ccb93924f78e7c4df9e8ffe92b8f2a928ee48cd8004104c23edeed3c2b
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/693e9cf1be918c71da2362e4e79f5289-thumbnail.jpg" group-title="NBA Live Feb5(S1)",10:30AM Thunder vs Spurs
+https://cdn5.xkfiles.cfd/live/cdn5/playlist.m3u8?expires=1770245166&token=ddb0e2c0f1f466a63613830fcdc16e67a1f252b2c081d6347100adbaae4e8e41
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/75b6aa3ae8ea8d7448487f59983d7f5e-thumbnail.jpg" group-title="NBA Live Feb4(S1)",9AM Celtics vs Mavericks
-https://cdn9.xkfiles.cfd/live/cdn9/playlist.m3u8?expires=1770156500&token=e23f5ab231ed91976a883433730c1da4afd94258a5326b6bafd2e994a9b9b960
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/33a3be15818933a7fb842607cd851cc9-thumbnail.jpg" group-title="NBA Live Feb5(S1)",11AM Grizzlies vs Kings
+https://cdn6.xkfiles.cfd/live/cdn6/playlist.m3u8?expires=1770245178&token=fbb9fcd6846d6a4590eb290d3609a1b5edbc5bf9367daa9d6b5c70aab30a33b3
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8645ce5b8182ee1cdb925b01a6507191-thumbnail.jpg" group-title="NBA Live Feb4(S1)",9AM Bulls vs Bucks
-https://cdn8.xkfiles.cfd/live/cdn8/playlist.m3u8?expires=1770156540&token=6db0632bca86a8fa7fe20b4b68d0585c20d40ce924a5cb5cc3545508f00b46a1
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b5492cba10209d15336f926c5f9afec8-thumbnail.jpg" group-title="NBA Live Feb5(S1)",11:30AM Cavaliers vs Clippers
+https://cdn7.xkfiles.cfd/live/cdn7/playlist.m3u8?expires=1770245193&token=fa352ab9b0ea0886b2310396e3f04a1179ee34c0832d7c913130a102dc0b34fe
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c991272706a99afb76c082ceab51c9af-thumbnail.jpg" group-title="NBA Live Feb4(S1)",9AM Magic vs Thunder
-https://cdn7.xkfiles.cfd/live/cdn7/playlist.m3u8?expires=1770156590&token=de9a214e90e2a7deb2841864b894bf8b0b98746a3eac5695de947031a51a95dd
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9f9957fc0cf9bb3943d654fdf31a3b70-thumbnail.jpg" group-title="NBA Live Feb4(S1)",11AM 76ers vs Warriors
-https://cdn2.xkfiles.cfd/live/cdn2/playlist.m3u8?expires=1770156632&token=296ebb6727c5e8eb859c234a570086067bb0a36acaeb0eb0c468dde1eca0b2dd
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9c4070d000dfad345a122d17f2f2cd5e-thumbnail.jpg" group-title="NBA Live Feb4(S1)",12AM Suns vs Blazers
-https://cdn3.xkfiles.cfd/live/cdn3/playlist.m3u8?expires=1770156730&token=f48c1f04d9f49fd23c744fcfff927aad5c4f85d31ee9a545938848e6f06500a6
 
 
 
@@ -41,183 +33,41 @@ https://cdn3.xkfiles.cfd/live/cdn3/playlist.m3u8?expires=1770156730&token=f48c1f
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Denver-Nuggets-Logo.svg" group-title="NBA Live Feb4(S2)",Denver Nuggets @ Detroit Pistons (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Denver-Nuggets-Logo.svg" group-title="NBA Live Feb5(S2)",8AM Nuggets vs Knicks
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/denver-nuggets-vs-detroit-pistons720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Utah-Jazz-Logo.svg" group-title="NBA Live Feb4(S2)",Utah Jazz @ Indiana Pacers (NBA)
+https://afahkjq2jh4hjkasf.shop/live/denver-nuggets-vs-new-york-knicks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Minnesota-Timberwolves-Logo.svg" group-title="NBA Live Feb5(S2)",8:30AM Timberwolves vs Raptors
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/utah-jazz-vs-indiana-pacers720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-York-Knicks-Logo.svg" group-title="NBA Live Feb4(S2)",New York Knicks @ Washington Wizards (NBA)
+https://afahkjq2jh4hjkasf.shop/live/minnesota-timberwolves-vs-toronto-raptors720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Boston-Celtics-Logo.svg" group-title="NBA Live Feb5(S2)",9AM Celtics vs Rockets
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/new-york-knicks-vs-washington-wizards720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Los-Angeles-Lakers-Logo.svg" group-title="NBA Live Feb4(S2)",Los Angeles Lakers @ Brooklyn Nets (NBA)
+https://afahkjq2jh4hjkasf.shop/live/boston-celtics-vs-houston-rockets720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-Orleans-Pelicans-Logo.svg" group-title="NBA Live Feb5(S2)",9AM Pelicans vs Bucks
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/los-angeles-lakers-vs-brooklyn-nets720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Atlanta-Hawks-Logo.svg" group-title="NBA Live Feb4(S2)",Atlanta Hawks @ Miami Heat (NBA)
+https://afahkjq2jh4hjkasf.shop/live/new-orleans-pelicans-vs-milwaukee-bucks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Oklahoma-City-Thunder-Logo.svg" group-title="NBA Live Feb5(S2)",10:30AM Thunder vs Spurs
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/atlanta-hawks-vs-miami-heat720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Boston-Celtics-Logo.svg" group-title="NBA Live Feb4(S2)",Boston Celtics @ Dallas Mavericks (NBA)
+https://afahkjq2jh4hjkasf.shop/live/oklahoma-city-thunder-vs-san-antonio-spurs720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Memphis-Grizzlies-Logo.svg" group-title="NBA Live Feb5(S2)",11AM Grizzlies vs Kings
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/boston-celtics-vs-dallas-mavericks720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Chicago-Bulls-Logo.svg" group-title="NBA Live Feb4(S2)",Chicago Bulls @ Milwaukee Bucks (NBA)
+https://afahkjq2jh4hjkasf.shop/live/memphis-grizzlies-vs-sacramento-kings720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Cleveland-Cavaliers-Logo.svg" group-title="NBA Live Feb5(S2)",11:30AM Cavaliers vs Clippers
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/chicago-bulls-vs-milwaukee-bucks720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Orlando-Magic-Logo.svg" group-title="NBA Live Feb4(S2)",Orlando Magic @ Oklahoma City Thunder (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/orlando-magic-vs-oklahoma-city-thunder720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Philadelphia-76ers-Logo.svg" group-title="NBA Live Feb4(S2)",Philadelphia 76ers @ Golden State Warriors (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/philadelphia-76ers-vs-golden-state-warriors720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Phoenix-Suns-Logo.svg" group-title="NBA Live Feb4(S2)",Phoenix Suns @ Portland Trail Blazers (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/phoenix-suns-vs-portland-trail-blazers720p/index.m3u8
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" group-title="NBA Live Feb4(S3)",New York Knicks at Washington Wizards (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyMtAVkVOcMUB0Zb3hPw1Uog/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" group-title="NBA Live Feb4(S3)",New York Knicks at Washington Wizards (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyInrUBEa7Wag2_qNPsC6SkM/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" group-title="NBA Live Feb4(S3)",Philadelphia 76ers at Golden State Warriors (Feb 4 @ 11:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyGn1uIuZoTxKyYUW7fjrV_o/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" group-title="NBA Live Feb4(S3)",Philadelphia 76ers at Golden State Warriors (Feb 4 @ 11:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyEmAiSON5O2Auv8wB53vbnU/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBA Live Feb4(S3)",Denver Nuggets at Detroit Pistons (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyAiSZWHLp6YM5J31qXyynsk/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="NBA Live Feb4(S3)",Denver Nuggets at Detroit Pistons (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyM-WtkHxKMF4BaqPxy1S3pg/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" group-title="NBA Live Feb4(S3)",Chicago Bulls at Milwaukee Bucks (Feb 4 @ 9:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyO-htn3R7WDpGNpFoTxYBsQ/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" group-title="NBA Live Feb4(S3)",Chicago Bulls at Milwaukee Bucks (Feb 4 @ 9:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyNK8qydlPI7yNjt_uYI3tTQ/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA Live Feb4(S3)",Atlanta Hawks at Miami Heat (Feb 4 @ 8:30 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyNmzB3Pe58icEAJU9VpcAV4/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="NBA Live Feb4(S3)",Atlanta Hawks at Miami Heat (Feb 4 @ 8:30 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyBNvAVeSqd_NV7uk7BUttXA/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" group-title="NBA Live Feb4(S3)",Boston Celtics at Dallas Mavericks (Feb 4 @ 9:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyEywAvPZp58rGIUhyXQv71Q/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" group-title="NBA Live Feb4(S3)",Boston Celtics at Dallas Mavericks (Feb 4 @ 9:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyLIBwMI0u2ZtqKrcmcqfBk4/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBA Live Feb4(S3)",Utah Jazz at Indiana Pacers (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyLySHnH4JxgjcJ4I-0IEU_U/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" group-title="NBA Live Feb4(S3)",Utah Jazz at Indiana Pacers (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyKubj1HDx3LVaSR8B93sHjA/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png" group-title="NBA Live Feb4(S3)",Phoenix Suns at Portland Trail Blazers (Feb 4 @ 12:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyGGA3Ju4RcWFYh2afimUdwA/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png" group-title="NBA Live Feb4(S3)",Phoenix Suns at Portland Trail Blazers (Feb 4 @ 12:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyB5SJcOsBKZA5NkggpTAJ5E/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL",Washington Capitals at Philadelphia Flyers (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyF2IRSLpKuceqeLAtDBXqx8/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/phi.png" group-title="NHL",Washington Capitals at Philadelphia Flyers (Feb 4 @ 8:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyHHrMSwNbAe1EI9agf3IFBo/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="NBA Live Feb4(S3)",Los Angeles Lakers at Brooklyn Nets (Feb 4 @ 8:30 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyOy52I5UpTRG1H0B143xTUY/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="NBA Live Feb4(S3)",Los Angeles Lakers at Brooklyn Nets (Feb 4 @ 8:30 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyI957ekVc0pXc4X0EBnH2aw/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" group-title="NBA Live Feb4(S3)",Orlando Magic at Oklahoma City Thunder (Feb 4 @ 9:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyO9k2nuCG2D1Mk_e6pcFQw8/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" group-title="NBA Live Feb4(S3)",Orlando Magic at Oklahoma City Thunder (Feb 4 @ 9:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.bestlive.top:443/play/pAVJjXWDXadNqa4ml_eoyLnqzke7ZQb-c5TOkiZW0IE/.m3u8
-
+https://afahkjq2jh4hjkasf.shop/live/cleveland-cavaliers-vs-la-clippers720p/index.m3u8
 
 
 
@@ -9240,6 +9090,9 @@ https://drive.usercontent.google.com/download?id=1RI_UpjwCMsJFtqN0VvCONjihG1ag0W
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G...usticRetreats_1920x1080_new._SL170_FMpng_.png" group-title="Home & DIY",Rustic Retreats
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0febaaac6736e6bd848b1dd9685fa2a:f2d606b7385e8b58c9f65a79d92dcf71
+https://otte.live.fly.ww.aiv-cdn.ne.../v1/b773fdbd144a49a1b750c7fe1053771d/cenc.mpd
 
 
