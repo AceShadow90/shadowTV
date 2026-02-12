@@ -4,128 +4,28 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9c1e23f0870d93a2b8a4e490a9d02850-thumbnail.jpg" group-title="NBA Live Feb12(S1)",8AM Hawks vs Hornets
-https://cdn3.ncfiles.cfd/live/cdn3/playlist.m3u8?expires=1770853237&token=24f83ca1c2de903bd8f7c562506268bc55572bfe95ea2773a67bcd4c7af52405
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/14ec98849502c633db04f51570b691d1-thumbnail.jpg" group-title="NBA Live Feb12(S1)",8AM Wizards vs Cavaliers
-https://cdn2.ncfiles.cfd/live/cdn2/playlist.m3u8?expires=1770853255&token=8c5d77ce7c273db741ccad91c26cdef048f3e7104cba829a2acb937de58ef0a3
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0284707a111d06785e8b73442c54d738-thumbnail.jpg" group-title="NBA Live Feb12(S1)",8AM Bucks vs Magic
-https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1770853269&token=02c9d3118c30e175564cb891380cd26972819b6d2e9061fbcc473e2a100c20a4
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1dfaf169644c6dcccc70b0aa0681c86e-thumbnail.jpg" group-title="NBA Live Feb12(S1)",8:30AM  Bulls vs Celtics
-https://cdn6.ncfiles.cfd/live/cdn6/playlist.m3u8?expires=1770853285&token=11fbd5aab5cc928cc087954ed5f70cc1f9242c449258c1497be55b9a8d90c972
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d753e2ffd4b9e59e22bc5a0628bda037-thumbnail.jpg" group-title="NBA Live Feb12(S1)",8:30AM Pacers vs Nets
-https://cdn5.ncfiles.cfd/live/cdn5/playlist.m3u8?expires=1770853299&token=e30a462963e2922aeea5df6aa69bcf37a8552c26e88ccd65922cd82af68e3b55
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bd2f66767d050fd3ee9377f5b23974bc-thumbnail.jpg" group-title="NBA Live Feb12(S1)",8:30AM Knicks vs 76ers
-https://cdn7.ncfiles.cfd/live/cdn7/playlist.m3u8?expires=1770853314&token=beabd2835b3c643a061e7a8eb4a6a82e4ee36e7d404e96adf72c197b523b1bde
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b39543887e67a32e58bc40960ab00aff-thumbnail.jpg" group-title="NBA Live Feb12(S1)",8:30AM Pistons vs Raptors
-https://cdn4.ncfiles.cfd/live/cdn4/playlist.m3u8?expires=1770853334&token=619b472b23b0a5428a49cd0f50bc630756201c5906ba80a159d60fb4f52c4c03
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f44e933a2398849a2612407d5934f55b-thumbnail.jpg" group-title="NBA Live Feb12(S1)",9AM  Clippers vs Rockets
-https://cdn10.ncfiles.cfd/live/cdn10/playlist.m3u8?expires=1770853350&token=d7513cc0090192782aa672ee75c7ece0ef68a36006e92e6e77fc63cee9d2fd96
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c2d73afe73480c10202afebb645361b9-thumbnail.jpg" group-title="NBA Live Feb12(S1)",9AM Blazers vs Timberwolves
-https://cdn9.ncfiles.cfd/live/cdn9/playlist.m3u8?expires=1770853367&token=a888e84b193266abd11af176d703957ddb6f089e882325b6fe51559e97512b73
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fc99f9ea0c5262c9b539b140b9fbfb3a-thumbnail.jpg" group-title="NBA Live Feb12(S1)",9AM  Heat vs Pelicans
-https://cdn8.ncfiles.cfd/live/cdn8/playlist.m3u8?expires=1770853381&token=f8264c8234f7d1b248bb0a4a45e07ad540d7baac7464175bae0e30bd94495fd6
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/02d64c4ebc77e7f52bdcabd8af39dfa6-thumbnail.jpg" group-title="NBA Live Feb12(S1)",10AM Thunder vs Suns
-https://cdn12.ncfiles.cfd/live/cdn12/playlist.m3u8?expires=1770853393&token=38c2a1e2f9a42ef7b9a97b451eec6bf7b9a933abaa1d52ceff0a41148ba3d658
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/553ba77347846cfadc3f1f4626cb7304-thumbnail.jpg" group-title="NBA Live Feb12(S1)",10AM  Kings vs Jazz
-https://cdn11.ncfiles.cfd/live/cdn11/playlist.m3u8?expires=1770853407&token=4e04c7b42ae85efd58e0c903f362e9846b705dc2c0b82a18c854d33f18ae80eb
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/46ceeac3aa59cb7546c14f77f4802ce7-thumbnail.jpg" group-title="NBA Live Feb12(S1)",10AM Grizzlies vs Nuggets
-https://cdn13.ncfiles.cfd/live/cdn13/playlist.m3u8?expires=1770853422&token=33c83fbb5b1b69bb25e863271a31fda33d045199c1593700fb439ca043ecd8ec
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c3ad9605c8dcb194f9de750829ed6c2a-thumbnail.jpg" group-title="NBA Live Feb12(S1)",11AM  Spurs vs Warriors
-https://cdn7.ncfiles.cfd/live/cdn7/playlist.m3u8?expires=1770853437&token=628626e3dddd3af114b9ed101a87ce88e178532917dd3619ac75b08ef803e2f2
-
-
-
 
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Atlanta-Hawks-Logo.svg" group-title="NBA Live Feb12(S2)",Atlanta Hawks @ Charlotte Hornets (NBA)
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Milwaukee-Bucks-Logo.svg" group-title="NBA Live Feb13(S2)",8:30AM Bucks vs Thunder(NBA)
 #EXTVLCOPT:http-origin=https://streamfree.to
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/atlanta-hawks-vs-charlotte-hornets720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Washington-Wizards-Logo.svg" group-title="NBA Live Feb12(S2)",Washington Wizards @ Cleveland Cavaliers (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/washington-wizards-vs-cleveland-cavaliers720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Milwaukee-Bucks-Logo.svg" group-title="NBA Live Feb12(S2)",Milwaukee Bucks @ Orlando Magic (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/milwaukee-bucks-vs-orlando-magic720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Chicago-Bulls-Logo.svg" group-title="NBA Live Feb12(S2)",Chicago Bulls @ Boston Celtics (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/chicago-bulls-vs-boston-celtics720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Indiana-Pacers-Logo.svg" group-title="NBA Live Feb12(S2)",Indiana Pacers @ Brooklyn Nets (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/indiana-pacers-vs-brooklyn-nets720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-York-Knicks-Logo.svg" group-title="NBA Live Feb12(S2)",New York Knicks @ Philadelphia 76ers (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/new-york-knicks-vs-philadelphia-76ers720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Detroit-Pistons-Logo.svg" group-title="NBA Live Feb12(S2)",Detroit Pistons @ Toronto Raptors (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/detroit-pistons-vs-toronto-raptors720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/LA-Clippers-Logo.svg" group-title="NBA Live Feb12(S2)",LA Clippers @ Houston Rockets (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/la-clippers-vs-houston-rockets720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="NBA Live Feb12(S2)",Portland Trail Blazers @ Minnesota Timberwolves (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/portland-trail-blazers-vs-minnesota-timberwolves720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Miami-Heat-Logo.svg" group-title="NBA Live Feb12(S2)",Miami Heat @ New Orleans Pelicans (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/miami-heat-vs-new-orleans-pelicans720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Oklahoma-City-Thunder-Logo.svg" group-title="NBA Live Feb12(S2)",Oklahoma City Thunder @ Phoenix Suns (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/oklahoma-city-thunder-vs-phoenix-suns720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Sacramento-Kings-Logo.svg" group-title="NBA Live Feb12(S2)",Sacramento Kings @ Utah Jazz (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/sacramento-kings-vs-utah-jazz720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Memphis-Grizzlies-Logo.svg" group-title="NBA Live Feb12(S2)",Memphis Grizzlies @ Denver Nuggets (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/memphis-grizzlies-vs-denver-nuggets720p/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/San-Antonio-Spurs-Logo.svg" group-title="NBA Live Feb12(S2)",San Antonio Spurs @ Golden State Warriors (NBA)
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://afahkjq2jh4hjkasf.shop/live/san-antonio-spurs-vs-golden-state-warriors720p/index.m3u8
+https://afahkjq2jh4hjkasf.shop/live/milwaukee-bucks-vs-oklahoma-city-thunder720p/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="NBA Live Feb13(S2)",10AM Trail Blazers vs Jazz(NBA)
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/portland-trail-blazers-vs-utah-jazz720p/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Dallas-Mavericks-Logo.svg" group-title="NBA Live Feb13(S2)",11AM Mavericks vs Lakers(NBA)
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/dallas-mavericks-vs-los-angeles-lakers720p/index.m3u8
 
 
 
@@ -790,7 +690,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+#KODIPROP:inputstream.adaptive.license_key=2e6a9d7c1f4b4c8a8d33c7b1f0a5e924:4c71e178d090332fbfe72e023b59f6d2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Cignal", RPTV
@@ -811,7 +711,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+#KODIPROP:inputstream.adaptive.license_key=3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d:4019f9269b9054a2b9e257b114ebbaf2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Cignal", Bilyonaryo Channel
@@ -881,7 +781,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Cignal", One Sports+
@@ -895,7 +795,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+#KODIPROP:inputstream.adaptive.license_key=5e7c1b9a2d8f4a6c9f30b1d6e2a8c744:6178d9d177689eec5028e2dd608ae7b6
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/TVUP%20Logo%20.png" group-title="Cignal", TVUP!
