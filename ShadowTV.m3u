@@ -24,6 +24,11 @@ https://cdn3.trrfiles.cfd/live/cdn3/playlist.m3u8?expires=1771894987&token=16e30
 
 
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIF.Bw5SAQF%2fL5JihEHFuHPL6Q&pid=Api&h=220&P=0" group-title="ICC Duterte Confirmation of charges",5PM Duterte (Republic of the Philippines) Confirmation of charges
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/46fb09b1-7ccf-25cc-f099-3850f3429fb9/index.m3u8
+
+
+
 
 **********Converge-TV**********
 
@@ -9295,6 +9300,7 @@ https://bb.streamflixserver.site/file/streamflix/movies/2021/afterwefell.mkv
 https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/aftereverhappy.mkv
 #EXTINF:-1 tvg-id="After Film Series" tvg-name="After Everything (2023)" tvg-logo="https://i.postimg.cc/gJrpKx8G/After-5.jpg" group-title="After Film Series",After Everything (2023)
 https://bb.streamflixserver.site/file/streamflix/movies/2023/aftereverything.mkv
+
 
 
 
