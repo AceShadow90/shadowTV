@@ -8,6 +8,41 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",8AM Mavericks vs Magic
+https://cdn2.trrfiles.cfd/live/cdn2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",8AM Jazz vs Wizards
+https://cdn11.trrfiles.cfd/live/cdn11/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",8:30AM Nets vs Heat
+https://cdn3.trrfiles.cfd/live/cdn3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",8:30AM Warriors vs Rockets
+https://cdn12.trrfiles.cfd/live/cdn12/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",9AM Raptors vs Timberwolves
+https://cdn6.trrfiles.cfd/live/cdn6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",9AM Pistons vs Spurs
+https://cdn13.trrfiles.cfd/live/cdn13/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",10AM Bulls vs Suns
+https://cdn7.trrfiles.cfd/live/cdn7/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",11AM Lakers vs Nuggets
+https://cdn2.trrfiles.cfd/live/cdn2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR06(S1)",11AM Pelicans vs  Kings
+https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772760743&token=b73a936687647f1a5f773bdadfe30d2f2973a5186f1326e9b65f47692cb3b244
+
+
+
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",8AM Mavericks vs Magic
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
@@ -36,7 +71,7 @@ https://daffodil.833577.xyz/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.lifesharper.com/nba.m3u8
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",9AM Pistons vs Spurs
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
@@ -66,7 +101,8 @@ https://601.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.KzJ3y8vPvO5BYazbby-gsgHaD0?pid=Api&h=220&P=0" group-title="BOXING MAR06(S1)",7:30AM Steven Butler vs Ramadan Hiseni
+https://cdn10.trrfiles.cfd/live/cdn10/chunks.m3u8
 
 
 
@@ -83,9 +119,6 @@ https://vod2.poocloud.in/evw22/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIF.Bw5SAQF%2fL5JihEHFuHPL6Q&pid=Api&h=220&P=0" group-title="ICC Duterte Confirmation of charges",LIVE Duterte (Republic of the Philippines) Confirmation of charges
-https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/46fb09b1-7ccf-25cc-f099-3850f3429fb9/index.m3u8
 
 
 
@@ -372,6 +405,9 @@ http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="PH HayabusaTV",CHANNELS NOTICE
 https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIF.Bw5SAQF%2fL5JihEHFuHPL6Q&pid=Api&h=220&P=0" group-title="PH HayabusaTV",LIVE Duterte (Republic of the Philippines) Confirmation of charges
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/46fb09b1-7ccf-25cc-f099-3850f3429fb9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/tX5134VKA.jpg" group-title="PH HayabusaTV",PBB COLLAB 2.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -9360,6 +9396,7 @@ https://bb.streamflixserver.site/file/streamflix/movies/2021/afterwefell.mkv
 https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/aftereverhappy.mkv
 #EXTINF:-1 tvg-id="After Film Series" tvg-name="After Everything (2023)" tvg-logo="https://i.postimg.cc/gJrpKx8G/After-5.jpg" group-title="After Film Series",After Everything (2023)
 https://bb.streamflixserver.site/file/streamflix/movies/2023/aftereverything.mkv
+
 
 
 
