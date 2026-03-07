@@ -42,13 +42,13 @@ https://cdn7.tgfiles.cfd/live/cdn7/playlist.m3u8?expires=1772831164&token=a615d0
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
+https://602.833577.xyz/nba.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",8AM Heat vs Hornets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.serverbandel.sbs/nba2.m3u8
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",9AM Trail Blazers vs Rockets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
@@ -72,15 +72,13 @@ https://daffodil.serverbandel.sbs/nba5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
+https://602.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",11:30AM Pacers vs Lakers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
-
-
+https://602.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
 
 
 
@@ -110,7 +108,7 @@ https://cdn9.tgfiles.cfd/live/cdn9/playlist.m3u8?expires=1772831097&token=996387
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://602.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8
+https://602.833577.xyz/f1.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d72b1274e0df94b08fd451342b472a44-thumbnail.jpg" group-title="MOTORSPORTS LIVE MAR07(S2)",1PM Australian Grand Prix Formula 1 - Qualifying
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
@@ -119,13 +117,11 @@ https://602.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8
 https://602.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.xCEnQTwVnFMBhoz2ubGcvgHaJ4?pid=Api&h=220&P=0" group-title="ARM WRESTLING FEB28 2026(S2)",EAST VS WEST XXII REPLAY
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://vod2.poocloud.in/evw22/index.m3u8
-
 
 
 
@@ -9409,6 +9405,7 @@ https://bb.streamflixserver.site/file/streamflix/movies/2021/afterwefell.mkv
 https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/aftereverhappy.mkv
 #EXTINF:-1 tvg-id="After Film Series" tvg-name="After Everything (2023)" tvg-logo="https://i.postimg.cc/gJrpKx8G/After-5.jpg" group-title="After Film Series",After Everything (2023)
 https://bb.streamflixserver.site/file/streamflix/movies/2023/aftereverything.mkv
+
 
 
 
