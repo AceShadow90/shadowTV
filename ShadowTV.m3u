@@ -81,6 +81,46 @@ https://daffodil.serverbandel.sbs/nba6.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Cleveland-Cavaliers-Logo.svg" group-title="NBA Live MAR12(S3)",7:30AM Cleveland Cavaliers vs Orlando Magic
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/cleveland-cavaliers-vs-orlando-magic720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Toronto-Raptors-Logo.svg" group-title="NBA Live MAR12(S)",8AM Toronto Raptors vs New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/toronto-raptors-vs-new-orleans-pelicans720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-York-Knicks-Logo.svg" group-title="NBA Live MAR12(S3)",9AM New York Knicks vs Utah Jazz
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/new-york-knicks-vs-utah-jazz720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Houston-Rockets-Logo.svg" group-title="NBA Live MAR12(S3)",10AM Houston Rockets vs Denver Nuggets
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/houston-rockets-vs-denver-nuggets720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Charlotte-Hornets-Logo.svg" group-title="NBA Live MAR12(S3)",10AM Charlotte Hornets vs Sacramento Kings
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/charlotte-hornets-vs-sacramento-kings720p/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Minnesota-Timberwolves-Logo.svg" group-title="NBA Live MAR12(S3)",10:30AM Minnesota Timberwolves vs Los Angeles Clippers
+#EXTVLCOPT:http-origin=https://streamfree.to
+#EXTVLCOPT:http-referrer=https://streamfree.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://afahkjq2jh4hjkasf.shop/live/minnesota-timberwolves-vs-la-clippers720p/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2cde00fb0865966ea7e1d963dfcdfc98-thumbnail.jpg" group-title="COMBAT SPORTS Live MAR12(S2)",7AM HYPE Brazil: Tsarukyan vs Mokaev
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
@@ -9368,6 +9408,7 @@ https://bb.streamflixserver.site/file/streamflix/movies/2021/afterwefell.mkv
 https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/aftereverhappy.mkv
 #EXTINF:-1 tvg-id="After Film Series" tvg-name="After Everything (2023)" tvg-logo="https://i.postimg.cc/gJrpKx8G/After-5.jpg" group-title="After Film Series",After Everything (2023)
 https://bb.streamflixserver.site/file/streamflix/movies/2023/aftereverything.mkv
+
 
 
 
