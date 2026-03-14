@@ -54,25 +54,46 @@ https://cdn7.tyfiles.cfd/live/cdn7/playlist.m3u8?expires=1773521847&token=da436b
 
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://4kwallpapers.com/images/wallpapers/kobe-bryant-nba-5120x2880-11733.jpg" group-title="NBA Live MAR15(S2)need to reupdate",1AM Brooklyn Nets vs Philadelphia 76ers
-https://lb2.modifiles.fans/secure/wfQZRXOHURBKqpTALMjsuOjVjNEbtpzY/1773433800/1773461880/detroitpistons/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.modifiles.fans/secure/wfQZRXOHURBKqpTALMjsuOjVjNEbtpzY/1773433800/1773461880/detroitpistons/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://4kwallpapers.com/images/wallpapers/kobe-bryant-nba-5120x2880-11733.jpg" group-title="NBA Live MAR15(S2)need to reupdate",3AM Milwaukee Bucks vs Atlanta Hawks
-https://lb3.modifiles.fans/secure/BRgsUBAQIldtbjKBgisCbYClxuAVwJiA/1773433800/1773461880/indianapacers/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.modifiles.fans/secure/BRgsUBAQIldtbjKBgisCbYClxuAVwJiA/1773433800/1773461880/indianapacers/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://4kwallpapers.com/images/wallpapers/kobe-bryant-nba-5120x2880-11733.jpg" group-title="NBA Live MAR15(S2)need to reupdate",3:30AM Charlotte Hornets vs San Antonio Spurs
-https://lb3.modifiles.fans/secure/atHGQSCurIlroJurpMwMtvDKUUteFtVL/1773505800/1773533880/sanantoniospurs/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.modifiles.fans/secure/atHGQSCurIlroJurpMwMtvDKUUteFtVL/1773505800/1773533880/sanantoniospurs/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://4kwallpapers.com/images/wallpapers/kobe-bryant-nba-5120x2880-11733.jpg" group-title="NBA Live MAR15(S2)need to reupdate",6AM Washington Wizards vs Boston Celtics
-https://lb1.modifiles.fans/secure/GUrXJqeiBpWygnGIzSVCLVcHAMKfAdzb/1773514800/1773542880/bostonceltics/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb1.modifiles.fans/secure/GUrXJqeiBpWygnGIzSVCLVcHAMKfAdzb/1773514800/1773542880/bostonceltics/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://4kwallpapers.com/images/wallpapers/kobe-bryant-nba-5120x2880-11733.jpg" group-title="NBA Live MAR15(S2)need to reupdate",8AM Orlando Magic vs Miami Heat
-https://lb4.modifiles.fans/secure/pOcXDOXhEmjRZnfxtdNpvSLptBRHuCeo/1773522000/1773550080/miamiheat/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb4.modifiles.fans/secure/pOcXDOXhEmjRZnfxtdNpvSLptBRHuCeo/1773522000/1773550080/miamiheat/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://4kwallpapers.com/images/wallpapers/kobe-bryant-nba-5120x2880-11733.jpg" group-title="NBA Live MAR15(S2)need to reupdate",8:30AM Denver Nuggets vs Los Angeles Lakers
-https://lb2.modifiles.fans/secure/XPKblppwUtqTlOoFKDapjJtlCPViWjWy/1773523800/1773551880/losangeleslakers/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb2.modifiles.fans/secure/XPKblppwUtqTlOoFKDapjJtlCPViWjWy/1773523800/1773551880/losangeleslakers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://4kwallpapers.com/images/wallpapers/kobe-bryant-nba-5120x2880-11733.jpg" group-title="NBA Live MAR15(S2)need to reupdate",10:30AM Sacramento Kings vs Los Angeles Clippers
-https://lb3.modifiles.fans/secure/EDvaLTvbDbCzUjGwAcYNCmfYniKPyQNd/1773531000/1773559080/laclippers/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lb3.modifiles.fans/secure/EDvaLTvbDbCzUjGwAcYNCmfYniKPyQNd/1773531000/1773559080/laclippers/index.m3u8
 
 
 
