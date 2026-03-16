@@ -16,7 +16,7 @@ https://cdn2.tyfiles.cfd/live/cdn2/chunks.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7AM Golden State Warriors vs Washington Wizards
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn5.tyfiles.cfd/live/cdn5/chunks.m3u8
+https://cdn1.tyfiles.cfd/live/cdn1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7:30AM Portland Trail Blazers vs Brooklyn Nets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -31,23 +31,22 @@ https://cdn3.tyfiles.cfd/live/cdn3/chunks.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",8AM Memphis Grizzlies vs Chicago Bulls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn6.tyfiles.cfd/live/cdn6/playlist.m3u8?expires=1773601033&token=100a04ec5d3af04d220fe3de117a902705888db1ed9e9ec34b4971c26dd28bba
+https://cdn5.tyfiles.cfd/live/cdn5/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",8AM Dallas Mavericks vs New Orleans Pelicans
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn7.tyfiles.cfd/live/cdn7/playlist.m3u8?expires=1773601034&token=9ce9a0efc7a98d372a72a4fbf9574316d49689ba6f878f5a4c1e762b7bfea82d
+https://cdn6.tyfiles.cfd/live/cdn6/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",9:30AM Los Angeles Lakers vs Houston Rockets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn8.tyfiles.cfd/live/cdn8/playlist.m3u8?expires=1773601034&token=482a34b713d363a6e08a40e7432f0aefb9f51ebcd6d1ba736c2a2fd7e15d0716
+https://cdn7.tyfiles.cfd/live/cdn7/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",10AM San Antonio Spurs vs LA Clippers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn8.tyfiles.cfd/live/cdn8/playlist.m3u8?expires=1773601034&token=482a34b713d363a6e08a40e7432f0aefb9f51ebcd6d1ba736c2a2fd7e15d0716
-
+https://cdn8.tyfiles.cfd/live/cdn8/chunks.m3u8
 
 
 
