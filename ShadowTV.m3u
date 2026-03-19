@@ -5,6 +5,7 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR19(S1)",7AM Golden State Warriors vs Boston Celtics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -83,7 +84,7 @@ https://daffodil.lifesharper.com/nba7.m3u8|referer=https://roxiestreams.info/&or
 https://daffodil.lifesharper.com/nba8.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR19(S2)",9:30AM Los Angeles Lakers vs. Houston Rockets
-https://601.lifesharper.com/nba9.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.lifesharper.com/nba.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 
 
@@ -129,6 +130,7 @@ https://lb3.modifiles.fans/secure/DKsxeXhwZBNJwsRIfPsHIyHtGQrrvdRt/1773615600/17
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live MAR19(S3)",9:30AM Los Angeles Lakers vs. Houston Rockets
 https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=7296HMCKFLTEL4beKGZbvQ&expires=1773895049&user_id=RlZWVTd6VXhnME9XY0w1ZTR6SlliQkxHdzdIUEQ0TGZNb2NnUVZ1YQ==
 https://lb3.modifiles.fans/secure/DKsxeXhwZBNJwsRIfPsHIyHtGQrrvdRt/1773615600/1773643680/sacramentokings/index.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
+
 
 
 
@@ -485,12 +487,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/ccd312c8-e528-40ec-902c-e4205750ed11/index.mpd
-
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7
-https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
-
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7
-https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="PH HayabusaTV",DZMM Teleradyo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1326,9 +1322,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index
 
 #EXTINF:-1 group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg"
 
-
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="World TV",GMA 7
-https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="World TV",Kapatid Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3801,6 +3794,139 @@ https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream=inputstream.adaptive
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://images.genius.com/56d1f74c2259d2afaecec7a97a9d036a.554x554x1.jpg"
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",ANAK NI JANICE- Rene Requiestas, Mahal & Janice de Belen
+https://drive.usercontent.google.com/download?id=1oA7fAmZ1x3-B2itysqpmAbDh07XrLW4v&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",GANDA BABAE, GANDA LALAKE- Rene Requiestas, Maricel Laxa & Manilyn Reynes
+https://drive.usercontent.google.com/download?id=16-6A8ksgIAHFH-lhLwmueiAw4jS6JfCt&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",HULIHIN PROBINSYANONG MANDURUKOT- Rene Requiestas, Aiza Seguerra & Paquito Diaz
+https://drive.usercontent.google.com/download?id=1mjogvaDV0xCbHfKTLGCPgWulOkjdGiHI&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",LEON AT TIGRE- Rene Requiestas, Maricel Soriano & Paquito Diaz
+https://drive.usercontent.google.com/download?id=1p8C3baeXTtQNqAejfj_ioS3j1ftp9vLh&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",LITTLE & BIG WEAPON- Rene Requiestas, Joey de Leon & Noel Ungga Ayala
+https://drive.usercontent.google.com/download?id=1rGHXY-Lu9gUJM_TvMVq1hRujVZybmvuH&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",LONG RANGER & TONTON- Joey de Leon, Rene Requiestas & Maricel Laxa
+https://drive.usercontent.google.com/download?id=1Z4ju-XLaRyYi1S2JjVw4-uXxeNcKHElZ&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",LOVE KO SI MA_AM- Rene Requiestas, Alice Dixson & Manilyn Reynes
+https://drive.usercontent.google.com/download?id=1c3Lgi9fkBMe1iaeaVQd-OOmwzjU2rVyr&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",MICHAEL AND MADONNA- Rene Requiestas, Manilyn Reynes & Ogie Alcasid
+https://drive.usercontent.google.com/download?id=1Z4ju-XLaRyYi1S2JjVw4-uXxeNcKHElZ&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",MICHAEL AND MADONNA 2- Rene Requiestas, Manilyn Reynes, Aljon Jimenez & Isabel Granada
+https://drive.usercontent.google.com/download?id=13qaNbRVqlRUXro5uF80nbs02bWHF9uEk&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",PIDO DIDA 1 SABAY TAYO- Rene Requiestas, Kris Aquino & Nova Villa
+https://drive.usercontent.google.com/download?id=1FO0aBKsS9p6AjjS4xsJOdFUP1MjxrjsG&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",PIDO DIDA 2 KASAL NA- Rene Requiestas, Kris Aquino & Zoren Legaspi
+https://drive.usercontent.google.com/download?id=1E3gwqTE2bRxRLZ_kNHIWjAKEMrlF6EIT&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",PIDO DIDA 3 MAY KAMBAL NA- Rene Requiestas, Kris Aquino & Al Tantay
+https://drive.usercontent.google.com/download?id=1KuHGJVz0MjaMWiInodHvyWBzbtQ-N0_3&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",PRINSIPE ABANTE AT ANG LIHIM NG IBONG ADARNA- Rene Requiestas & Paquito Diaz
+https://drive.usercontent.google.com/download?id=16wEUMIJgYiWAN3ExsxtPm60j_U-mmtz7&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",SALAWAHAN- Rene Requiestas, Mat Ranillo III, Rio Locsin, Jay Ilagan & Sandy Andolong
+https://drive.usercontent.google.com/download?id=1gPDS453KiY3ajwgfWn1Kv6ramj42OjEH&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",SAMSON & GOLIATH- Rene Requiestas, Vic Sotto & Panchito Alba
+https://drive.usercontent.google.com/download?id=1BnGXtYjtHxturo5DzCziJRp5EEXOzCcn&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",SMALL MEDIUM LARGE- Rene Requeistas, Jimmy Santos & Noel Ungga Ayala
+https://drive.usercontent.google.com/download?id=1VNpfmT02UQIkGE3apJtv3_ptbtmC6XjF&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",STARZAN- Rene Requiestas, Joey de Leon, Zsa Zsa Padilla & Panchito
+https://drive.usercontent.google.com/download?id=1xi01xw7dTTsfE6m-qZf2wOJPqZeLE39l&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",STARZAN II THE COMING OF STAR SON- Rene Requiestas, Joey de Leon & Zsa Zsa Padilla
+https://drive.usercontent.google.com/download?id=1wLgzvqYRG701HzlMy_Ka1uZg5irbEtoH&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",STARZAN III THE JUNGLE TIANGLE- Rene Requiestas, Joey de Leon & Noel Ungga Ayala
+https://drive.usercontent.google.com/download?id=1fu8A0FY68D3LD-Ydspt1rJiw3W2J3BnB&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",SUPER MOUSE AND THE ROBO RATS- Rene Requiestas, Joey de Leon & Manilyn Reynes
+https://drive.usercontent.google.com/download?id=1t6dqYB6HX8mDlq96wWmrf-_3m0auERNr&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Rene Requiestas Collection",THE GOOD THE BAD AND THE UGLY- Rene Requiestas, Gabby Concepcion & Paquito Diaz
+https://drive.usercontent.google.com/download?id=1Tc2W_lfrPAWg5nWraPb5wNf6AQCObEW4&export=download&confirm=t
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2025/02/jason-statham-in-the-beekeeper.jpg"
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",A Working Man (2025)
+https://drive.usercontent.google.com/download?id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Collateral(2004)
+https://drive.usercontent.google.com/download?id=1YuPJNN5hRSB50nRwhJE_PffqdQjkmRQE&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Fast X (2023)
+https://drive.usercontent.google.com/download?id=18nEqTLwXsQV8DAVsPjwrJM7-kVpUs7u4&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Ghosts of Mars(2001)
+https://drive.usercontent.google.com/download?id=1T2mNuSZ4y2skS3ZZGHDyrpdULgUX-23A&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Lock, Stock and Two Smoking Barrels (1998)
+https://drive.usercontent.google.com/download?id=1r_Y2Tjmaie93ht20-o8qlnbrPzCXMGM3&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Mean Machine (2001)
+https://drive.usercontent.google.com/download?id=1Bdz3IxIBtpuDQamUWkZr3pokklbz0o2v&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",The Meg (2018)
+https://drive.usercontent.google.com/download?id=1qd72IG-It6ITu54CRiHKIz7I7T7Y7dPy&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Meg 2 The Trench (2023)
+https://drive.usercontent.google.com/download?id=1s_nPWR-t1tLAjjF3Gqd2BlfIhxulbd8d&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Operation Fortune_ Ruse de Guerre (2023)
+https://drive.usercontent.google.com/download?id=1u5xZKMk_oYNfgaydlA95zuJ1AUo8RI78&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Snatch (2000)
+https://drive.usercontent.google.com/download?id=1u2s9fQ19ro19kts7gSwTNnyJB8rSa4NB&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",The Beekeeper (2024)
+https://drive.usercontent.google.com/download?id=16edVEWIEwbnAumMjCascrN5UaincSWc0&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",The Expend4bles (2023)
+https://drive.usercontent.google.com/download?id=1tXCSJCp9VrH9vC-O7ChLFuO-Nl0hr1s9&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",The Fate of the Furious (2017)
+https://drive.usercontent.google.com/download?id=120jeOHhgeuC8PXrRIOqPLcmskjUk3-DA&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",The Italian Job(2003)
+https://drive.usercontent.google.com/download?id=14nEojy9rDAO4_47MVYH2z48d_YpnLuTo&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",The One (2000)
+https://drive.usercontent.google.com/download?id=1rUs3dS_4Y6gyJedkNxO655uJPXtSKf6c&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",The Transporter(2002)
+https://drive.usercontent.google.com/download?id=1wFdW4LnfQU0NsG-If2PkLNNdRA6YJTE2&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Turn It Up(2001)
+https://drive.usercontent.google.com/download?id=1i8mNw3HHgp4wx4nxrPglEGhGlhOEQGye&export=download&confirm=t
+
+#EXTINF: -1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Wrath of Man (2021)
+https://drive.usercontent.google.com/download?id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU2P&export=download&confirm=t
 
 
 
