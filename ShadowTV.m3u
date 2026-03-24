@@ -8710,9 +8710,15 @@ https://drive.usercontent.google.com/download?id=1i8mNw3HHgp4wx4nxrPglEGhGlhOEQG
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Wrath of Man (2021)
 https://drive.usercontent.google.com/download?id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU2P&export=download&confirm=t
 
+
+
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Wrath of Man (2021)
+#EXTVLCOPT:http-referrer=https://drive.google.com/
+#EXTVLCOPT:http-origin=https://drive.google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://drive.usercontent.google.com/download?id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU2P&export=download
+https://drive.google.com/uc?export=download&id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU2P
 
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Wrath of Man (2021)
+https://drive.google.com/uc?export=download&id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU2P
 
