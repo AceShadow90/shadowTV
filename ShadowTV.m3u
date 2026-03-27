@@ -108,6 +108,8 @@ https://601.simplyataide.boutique/nba10.m3u8|referer=https://roxiestreams.info/&
 
 
 
+
+
 #EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0"
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR28",1AM Austria vs Ghana
@@ -203,6 +205,7 @@ https://601.premiumjh.shop/main.m3u8|referer=https://roxiestreams.info/&origin=h
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="WRESTLING MAR28",8AM WWE Smackdown
 https://601.simplyataide.boutique/wwe.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+
 
 
 
@@ -2835,6 +2838,20 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Poland" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="SPORTS CHANNELS",FIFA plus
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2022/12/MTRSPT1-logo.png" group-title="SPORTS CHANNELS",MTRSPT1
+https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc-800x800.png" group-title="SPORTS CHANNELS",RallyTV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nascar.com/wp-content/uploads/sites/7/2025/02/04/NASCAR_Channel_How_To_Watch.jpg" group-title="SPORTS CHANNELS",Nascar Channel
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00115-nascar-nascar-nascarnorthamerica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="SPORTS CHANNELS",Motorvision +
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
 
@@ -8161,9 +8178,10 @@ https://drive.usercontent.google.com/download?id=1Tc2W_lfrPAWg5nWraPb5wNf6AQCObE
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",A Working Man (2025)
 https://drive.usercontent.google.com/download?id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q&export=download&confirm=t
 
-#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's https://drive.google.com/uc?export=download&id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q
+#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",A Working Man (2025)
+https://drive.google.com/uc?export=download&id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q
 
-#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's 
+#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",A Working Man (2025) 
 https://drive.usercontent.google.com/download?id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Collateral(2004)
