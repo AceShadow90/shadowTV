@@ -4682,7 +4682,7 @@ https://dl.dropboxusercontent.com/s/hclnj90638sl9u0/8-Bit.Christmas.2021.720p.10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dl.dropboxusercontent.com/s/gw7mlqigkjvav39/300%20%282006%29%20OPEN%20MATTE%20%281080p%20WEB-DL%20x265%20HEVC%2010bit%20AAC%205.1%20RN%29%20%5BUTR%5D.mkv?dl=1
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.linkpicture.com/q/LPic614f6e1ce3e411161062267.png", 2012 https://dl.dropboxusercontent.com/s/yzlp4sra1ql3tl8/Dalawang.Libo.Dalawa.2009.mkv?dl=0
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.linkpicture.com/q/LPic614f6e1ce3e411161062267.png", 2012 (2009) https://dl.dropboxusercontent.com/s/yzlp4sra1ql3tl8/Dalawang.Libo.Dalawa.2009.mkv?dl=0
 
 #EXTINF:-1 tvg-id="DalawangLiboDalawa2009" tvg-logo="https://upload.wikimedia.org/wikipedia/en/placeholder.png" group-title="MOVIES",2012 (2009)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -4690,14 +4690,8 @@ https://dl.dropboxusercontent.com/s/yzlp4sra1ql3tl8/Dalawang.Libo.Dalawa.2009.mk
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/rtv_sk_radio_regina_bratislava.png",Adit Sopo Jarwo The Movie (2021)
 https://lh3.googleusercontent.com/kK0X-hJanOSwrzdrCFEc7xg4-VVX5pxwt3PDmDehYHq-L56xs2kM4oOevgj0UHwEWfSJVRjpFe549r3m=m37
-#EXTINF:-1 group-title="MOVIES",Afwaah.2023.1080p.NF.WEBRip.DDP5.1.x265_Mr.Captain@Siambit-http://149.56.18.18/922001-923000/922139.mp4
-http://149.56.18.18/922001-923000/922139.mp4
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/MoLBdkh.png",Against The Ice (2022)
-https://onedrive.live.com/download?cid=D6B39FE8922913A7&resid=D6B39FE8922913A7%21113&authkey=AD9Mh2jgSQe_FKc
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/captain_tv.png",Ainbo
 https://lh3.googleusercontent.com/o_4Sm-emU3TL88Te17HrhqQI9KhB5oVSmiikk0VlyLX8yN7jXpv3rRQFDfUdwTZRMJs-XoIrOq4ph1e-zA=m22
-#EXTINF:-1 group-title="MOVIES",All That Breathes 2022
-http://149.56.18.18/921001-922000/921709.mp4
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/15/00/dce03f2c/dce03f2c-d568-4da4-ae6c-ba7361496264_640_360.png",All's Well End's Well extended - Nhà Có Tin Vui
 http://vod-zlr2.tv360.vn/video1/2021/09/15/00/6d691430/6d691430-119b-4d45-883a-fb24005a7c7e_5_.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.linkpicture.com/q/LPic614d4ed2b52a3607199372.png",Apocalypto (2006)
@@ -8137,6 +8131,11 @@ https://drive.usercontent.google.com/download?id=1Tc2W_lfrPAWg5nWraPb5wNf6AQCObE
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",A Working Man (2025)
 https://drive.usercontent.google.com/download?id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q&export=download&confirm=t
 
+#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's https://drive.google.com/uc?export=download&id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q
+
+#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's 
+https://drive.usercontent.google.com/download?id=1693Da1HAvrbr0yR6GB7uY7Aku_GW563q&export=download&authuser=0
+
 #EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Collateral(2004)
 https://drive.usercontent.google.com/download?id=1YuPJNN5hRSB50nRwhJE_PffqdQjkmRQE&export=download&confirm=t
 
@@ -8190,13 +8189,4 @@ https://drive.usercontent.google.com/download?id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU
 
 
 
-#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Wrath of Man (2021)
-#EXTVLCOPT:http-referrer=https://drive.google.com/
-#EXTVLCOPT:http-origin=https://drive.google.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://drive.google.com/uc?export=download&id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU2P
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://as2.ftcdn.net/v2/jpg/05/00/61/19/1000_F_500611919_5wuf1qGRCubiXXxIa7og1fLLCyHi6qP9.jpg" group-title="Jason Statham's Collection",Wrath of Man (2021)
-https://drive.google.com/uc?export=download&id=1-USkqm6t91LiyaCQUdX5s4amaF_dAU2P
 
