@@ -7,6 +7,8 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
+
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR27(S1)",7AM New York Knicks vs Charlotte Hornets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
@@ -27,6 +29,8 @@ https://cdn1.tkfiles.cfd/live/cdn1/chunks.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg"
+
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR27(S2)",7AM New York Knicks vs Charlotte Hornets
 https://daffodil.premiumjh.shop/nba.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
@@ -41,6 +45,8 @@ https://daffodil.simplyataide.boutique/nba3.m3u8|referer=https://roxiestreams.in
 
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg"
+
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR27(S3)",7AM New York Knicks vs Charlotte Hornets
 https://v8.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=H1PWiDABfqTmAhw81rMFtw&expires=1774578763&user_id=eWJsZTNvbWthM3pyM0IzWHIxbnJOWG04Rlk0bWlIVlFTakpSZkVHeQ==
 https://lb2.modifiles.fans/secure/bFqUYhiAauHWrQtylxqpQSHmaLKaNDnu/1773691200/1773719280/atlantahawks/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
@@ -58,6 +64,7 @@ https://lb2.modifiles.fans/secure/KfkLVkMShFICVvnSFQgIIEzdrSNhRicv/1773592200/17
 
 
 
+#EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0"
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="FIFA 2026 MAR27",1AM Gibraltar vs Latvia
 https://daffodil.premiumjh.shop/fsp.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -97,44 +104,45 @@ https://daffodil.simplyataide.boutique/finland.m3u8|referer=https://roxiestreams
 
 
 
+#EXTINF:-1 group-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg"
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",7AM Columbus Blue Jackets vs Montreal Canadiens
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",7AM Columbus Blue Jackets vs Montreal Canadiens
 https://601.premiumjh.shop/nhl.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",7AM Pittsburgh Penguins vs Ottawa Senators
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",7AM Pittsburgh Penguins vs Ottawa Senators
 https://601.premiumjh.shop/nhl2.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",7AM Seattle Kraken vs Tampa Bay Lightning
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",7AM Seattle Kraken vs Tampa Bay Lightning
 https://601.premiumjh.shop/nhl3.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",7AM Minnesota Wild vs Florida Panthers
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",7AM Minnesota Wild vs Florida Panthers
 https://601.premiumjh.shop/nhl4.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",7AM Dallas Stars vs New York Islanders
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",7AM Dallas Stars vs New York Islanders
 https://601.premiumjh.shop/nhl5.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",7AM Chicago Blackhawks vs Philadelphia Flyers
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",7AM Chicago Blackhawks vs Philadelphia Flyers
 https://601.premiumjh.shop/nhl6.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",8AM San Jose Sharks vs St. Louis Blues
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",8AM San Jose Sharks vs St. Louis Blues
 https://601.premiumjh.shop/nhl7.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",8AM New Jersey Devils vs Nashville Predators
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",8AM New Jersey Devils vs Nashville Predators
 https://601.premiumjh.shop/nhl8.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",8AM Colorado Avalanche vs Winnipeg Jets
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",8AM Colorado Avalanche vs Winnipeg Jets
 https://601.premiumjh.shop/nhl9.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",9AM Washington Capitals vs Utah Mammoth
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",9AM Washington Capitals vs Utah Mammoth
 https://601.premiumjh.shop/nhl10.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",9AM Anaheim Ducks vs Calgary Flames
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",9AM Anaheim Ducks vs Calgary Flames
 https://601.premiumjh.shop/nhl11.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",9:30AM Edmonton Oilers vs Vegas Golden Knights
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",9:30AM Edmonton Oilers vs Vegas Golden Knights
 https://601.premiumjh.shop/nhl12.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",10AM Los Angeles Kings vs Vancouver Canucks
+#EXTINF:-1 tvg-logo="https://as1.ftcdn.net/v2/jpg/05/64/40/94/1000_F_564409479_q2WXrzoDPc6kFsukEdr6f9N8cSA8i6SA.jpg" group-title="ICE HOCKEY MAR27",10AM Los Angeles Kings vs Vancouver Canucks
 https://601.premiumjh.shop/nhl13.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 
@@ -142,6 +150,7 @@ https://601.premiumjh.shop/nhl13.m3u8|referer=https://roxiestreams.info/&origin=
 
 
 
+#EXTINF:-1 group-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png"
 
 #EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAR27",8:30AM Arizona Diamondbacks vs Los Angeles Dodgers
 https://601.premiumjh.shop/mlb10.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -149,22 +158,16 @@ https://601.premiumjh.shop/mlb10.m3u8|referer=https://roxiestreams.info/&origin=
 #EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAR27",10:10AM Cleveland Guardians vs Seattle Mariners
 https://601.premiumjh.shop/mlb.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="MLB.Dodgers" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/lad.png" group-title="BASEBALL MAR27",Los Angeles Dodgers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://lb1.modifiles.fans/secure/yQaIMifaWtPhbmwfgmmyyNsthPjlJVFi/1774560600/1774591200/losangelesdodgers/index.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Mariners" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/sea.png" group-title="BASEBALL MAR27",Seattle Mariners
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://lb4.modifiles.fans/secure/BTbMIMVFatWiGFJheqtTPVZFSUROFvEg/1774566600/1774597200/seattlemariners/tracks-v1a1/mono.ts.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://e0.365dm.com/23/02/1600x900/skysports-ferrari-f1-2023-car_6056892.jpg?20240213131701"
 
 #EXTINF:-1 tvg-logo="https://e0.365dm.com/23/02/1600x900/skysports-ferrari-f1-2023-car_6056892.jpg?20240213131701" group-title="MOTORSPORTS MAR27",10:30AM Formula 1 - Free Practice
 https://601.premiumjh.shop/main.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
