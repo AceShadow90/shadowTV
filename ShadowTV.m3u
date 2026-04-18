@@ -41,6 +41,12 @@ https://mb1.tofiles.cfd/live/tornoto/stream.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 https://daffodil.underupturnip.net/nba.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 19(S2)",10AM Golden State Warriors vs Phoenix Suns
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://daffodil.underupturnip.net/nba2.m3u8
+
 
 
 
