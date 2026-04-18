@@ -11,18 +11,16 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #EXTM3U
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ccd8e1539ba8809ac64b173efea81bc9-thumbnail.jpg" group-title="NBA Live SD APRIL 18",7:30AM Charlotte Hornets vs Orlando Magic
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD APRIL 18",7:30AM Charlotte Hornets vs Orlando Magic
 https://v3.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=UYWRBb6xNCL87QXABRPwTg&expires=1776485252&user_id=TUpKVHNrdnZtWE9acFZiRmUzSE9jdHh4d01kVnJVc1htV0xIdDJpbg==
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9629640c58200b49cd0c2fd8a25afa69-thumbnail.jpg" group-title="NBA Live SD APRIL 18",10AM Golden State Warriors vs Phoenix Suns
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD APRIL 18",10AM Golden State Warriors vs Phoenix Suns
 https://v16.thetvapp.to/hls/nba02/tracks-v1a1/mono.m3u8?token=FLl91_gWFr_EEQjnfyEiaA&expires=1776485295&user_id=TUpKVHNrdnZtWE9acFZiRmUzSE9jdHh4d01kVnJVc1htV0xIdDJpbg==
 
 
 
 
 
-
-_________________________________________________________________________________________________________________________
 
 
 
@@ -33,18 +31,13 @@ ________________________________________________________________________________
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg"
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ccd8e1539ba8809ac64b173efea81bc9-thumbnail.jpg" group-title="NBA Live HD APRIL 18(S1)",7:30AM Charlotte Hornets vs Orlando Magic
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD APRIL 18(S1)",7:30AM Charlotte Hornets vs Orlando Magic
 https://mb1.tofiles.cfd/live/magic/stream.m3u8?expires=1776459519&token=0cba5c519d7e3748329da39b149ebba01c8e4a3ac5ea034ca87f71c9e17c836c
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9629640c58200b49cd0c2fd8a25afa69-thumbnail.jpg" group-title="NBA Live HD APRIL 18(S1)",10AM Golden State Warriors vs Phoenix Suns
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD APRIL 18(S1)",10AM Golden State Warriors vs Phoenix Suns
 https://mb2.tofiles.cfd/live/golden/stream.m3u8?expires=1776459524&token=8a7c5af1a37dbd3f61ba5dc7d665537812b7f79971bb0717245efd5d2b4c1a62
 
 
-
-
-
-
-_____________________________________________________________________________________________
 
 
 
@@ -55,13 +48,13 @@ ________________________________________________________________________________
 #EXTM3U
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ccd8e1539ba8809ac64b173efea81bc9-thumbnail.jpg" group-title="NBA Live HD APRIL 18(S2)",7:30AM Charlotte Hornets vs Orlando Magic
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 18(S2)",7:30AM Charlotte Hornets vs Orlando Magic
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://daffodil.underupturnip.net/nba.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ccd8e1539ba8809ac64b173efea81bc9-thumbnail.jpg" group-title="NBA Live HD APRIL 18(S2)",10AM Golden State Warriors vs Phoenix Suns
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 18(S2)",10AM Golden State Warriors vs Phoenix Suns
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -71,10 +64,6 @@ https://daffodil.underupturnip.net/nba2.m3u8
 
 
 
-
-
-
-____________________________________________________________________________________________________
 
 
 
@@ -108,8 +97,6 @@ https://602.underupturnip.net/tsn.m3u8
 
 
 
-
-__________________________________________________________________________________________________________
 
 
 
@@ -211,8 +198,6 @@ https://602.underupturnip.net/mlb15.m3u8
 
 
 
-___________________________________________________________________
-
 
 
 
@@ -245,9 +230,6 @@ https://602.underupturnip.net/wwe.m3u8
 
 
 
-______________________________________________________________________________________________________
-
-
 
 
 
@@ -259,7 +241,6 @@ ________________________________________________________________________________
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://602.underupturnip.net/fs1.m3u8
-
 
 
 
