@@ -6,16 +6,16 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U x-tvg-url=""
 
-#EXTINF:27 group-title="NBALIVE" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",Toronto Raptors vs Cleveland Cavaliers
+#EXTINF:27 group-title="NBALIVE" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",1AM Toronto Raptors vs Cleveland Cavaliers
 https://app.djdoolky76.net/stream/nbalp/live/master.m3u8?u=gratisph&p=e89b3027121ee8e26c807c46b02c9ce76e1d058f2205d50ac035317b70a61129
 
-#EXTINF:28 group-title="NBALIVE" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",Minnesota Timberwolves vs Denver Nuggets
+#EXTINF:28 group-title="NBALIVE" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",3:30AM Minnesota Timberwolves vs Denver Nuggets
 https://app.djdoolky76.net/stream/nbalp/live2/master.m3u8?u=gratisph&p=e89b3027121ee8e26c807c46b02c9ce76e1d058f2205d50ac035317b70a61129
 
-#EXTINF:28 group-title="NBALIVE" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",Atlanta Hawks vs New York Knicks
+#EXTINF:28 group-title="NBALIVE" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",6AM Atlanta Hawks vs New York Knicks
 https://app.djdoolky76.net/stream/nbalp/live3/master.m3u8?u=gratisph&p=e89b3027121ee8e26c807c46b02c9ce76e1d058f2205d50ac035317b70a61129
 
-#EXTINF:29 group-title="NBALIVE" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",Houston Rockets vs Los Angeles Lakers
+#EXTINF:29 group-title="NBALIVE" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",8:30AM Houston Rockets vs Los Angeles Lakers
 https://app.djdoolky76.net/stream/nbalp/live4/master.m3u8?u=gratisph&p=e89b3027121ee8e26c807c46b02c9ce76e1d058f2205d50ac035317b70a61129
 
 
@@ -23,7 +23,7 @@ https://app.djdoolky76.net/stream/nbalp/live4/master.m3u8?u=gratisph&p=e89b30271
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="Sharkstreams - NBA",Toronto Raptors  vs  Cleveland Cavaliers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/NBA.png" group-title="NBA Live HD APRIL 19",1AM Toronto Raptors vs Cleveland Cavaliers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 https://mb1.tofiles.cfd/live/tornoto/stream.m3u8?expires=1776524420&token=07bcdb3e13058a01a37bab979a14c8ed658b36998b16521731d86227417af8d6
