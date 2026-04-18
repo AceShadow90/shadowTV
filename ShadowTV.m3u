@@ -56,8 +56,12 @@ https://daffodil.underupturnip.net/nba2.m3u8
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg"
 
-#EXTINF:-1 channel-id="nba-hornets-magic" tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Orlando Magic" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD APRIL 18",1AM Hornets vs Magic
-https://v3.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=UYWRBb6xNCL87QXABRPwTg&expires=1776485252&user_id=TUpKVHNrdnZtWE9acFZiRmUzSE9jdHh4d01kVnJVc1htV0xIdDJpbg==
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Orlando Magic" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD APRIL 19",7:30AM Hornets vs Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+https://v17.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=Oq-jO3wBFgO5qjYzDWP8WA&expires=1776551725&user_id=QTJuZVRPb2VSc2p2VDdtT2tQb2xFdUhWTldCZWU1SHRLMXl4TGdHUQ==
 
 
 
