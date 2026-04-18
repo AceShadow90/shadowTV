@@ -889,7 +889,7 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 
 
 
-#EXTM3U url-tvg="https://gsat.atone77721.workers.dev/gsat.xml", billed-msg="ATONE77721_FREE"
+#EXTINF:-1 group-logo="https://tse3.mm.bing.net/th/id/OIP.YpjsviSXlEHZ7_QKNHhDrwHaHa?pid=Api&h=220&P=0"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://atone77721.dpdns.org/drm/license?contentid=2ut9rcHnZXed
