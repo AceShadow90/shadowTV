@@ -30,6 +30,12 @@ https://nbalp2.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=2ac49057
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.sandhost.qzz.io/nbasat.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="New York Knicks vs Cleveland Cavaliers" tvg-logo="https://api.ppv.st/assets/thumb/9367a07816518337387830d4dfb543fa-thumbnail.jpg" group-title="NBA EVENT 5/26",8AM Knicks vs Cavaliers S2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+https://v5.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=Fk_iFPC40qzpUumt0yBK-g&expires=1779765732&user_id=MmNyVEttTkUzMnpVektWSW5Ec21jcTM3b1prT3NCbjRlUGZjSXRzTg==
+
+
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
