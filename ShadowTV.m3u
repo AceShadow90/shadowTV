@@ -36,6 +36,29 @@ https://601.formaturamaxi.com.br/nbasat.m3u8
 
 
 
+#EXTINF:-1 gr#EXTINF:-1 group-logo="https://i.imgur.com/odYhtOW.png"
+
+oup-title="WNBA Event 5/28" tvg-logo="https://api.ppv.st/assets/thumb/1e3d028505a718dedca8135317de1dac-thumbnail.jpg",8AM Toronto Tempo vs Chicago Sky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://nh4.hocloud.cfd/live/sky/stream.m3u8
+#EXTINF:-1 group-title="WNBA Event 5/28" tvg-logo="https://api.ppv.st/assets/thumb/d6b6cd6a875c70f1397a0a4835e92c4b-thumbnail.jpg",9AM Atlanta Dream vs Minnesota Lynx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://nh4.hocloud.cfd/live/lynx/stream.m3u8
+#EXTINF:-1 group-title="WNBA Event 5/28" tvg-logo="https://api.ppv.st/assets/thumb/c32b0935a007759e7c85c47c74578f49-thumbnail.jpg",10AM Washington Mystics vs Seattle Storm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://nh4.hocloud.cfd/live/storm/stream.m3u8
+#EXTINF:-1 group-title="WNBA Event 5/28" tvg-logo="https://api.ppv.st/assets/thumb/592fd3a963e371f8f1f73b658451d90d-thumbnail.jpg",10AM Connecticut Sun vs Portland Fire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://nh4.hocloud.cfd/live/fire/stream.m3u8
+
+
+
+
+
 #EXTINF:-1 group-logo="https://i.imgur.com/3IfqM9h.png"
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Crystal Palace vs Rayo Vallecano (FINAL) (MAY 28 @ 03:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/741a4c73c5a54e8e25b60ea4e10c86b1-thumbnail.jpg" group-title="UEFA Conference League (FINAL) Event 5/28",3AM Crystal Palace vs Rayo Vallecano (FINAL)
